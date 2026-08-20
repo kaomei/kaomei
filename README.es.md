@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [**Español**](README.es.md)
 
-# 🐻 烤妹儿 (Kaomei)
+# 疯狂的烤妹儿 🩵 (CrazyKaomei)
 
 ### Observación de IA · Creando Herramientas Divertidas · Skills y Flujos de Trabajo en Código Abierto
 
