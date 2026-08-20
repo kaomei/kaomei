@@ -4,15 +4,12 @@
 
 # 🐻 烤妹儿 (Kaomei / カオメイ)
 
-### AI 動画ディレクター · オープンソースワークフロー開発者 · プロンプトアーキテクト
-
-[![X/Twitter Follow](https://img.shields.io/badge/X%2FTwitter-@CrazyKaomei-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![GitHub Followers](https://img.shields.io/github/followers/kaomei?style=for-the-badge&logo=github&color=181717&label=Followers)](https://github.com/kaomei?tab=followers)
-[![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](https://github.com/kaomei)
+### AI 前線考察 · 楽しいものづくり · 役立つAI Skill＆バズるワークフローを継続的にオープンソース公開
 
 <br/>
 
-> **最先端の AI 動画モデルを、誰もが一発で動画制作できるオープンソースワークフローへ。**
+> **最先端の AI 技術とクリエイティブなアイデアを、誰もがすぐに使えるオープンソースツールと作品へ。**  
+> *Just vibing with the CYCLE 👀*
 
 <br/>
 
@@ -22,21 +19,21 @@
 
 ### 🔥 注目のオープンソースプロジェクト (Featured Projects)
 
-| プロジェクト (Project) | 概要 (Description) | 対応エンジン / プラットフォーム |
+| プロジェクト (Project) | 概要 (Description) | カテゴリ / エンジン |
 |:---|:---|:---|
-| 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **1分棒人間アニメ監督**：原稿を6幕のダイナミック分鏡とプロンプトへ一括変換 | `Gemini Omni Flash` · `Codex` |
-| 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **手描き風動画プロンプト生成器**：ナレーションを9:16クレヨン手描き動画プロンプトへ変換 | `Flow` · `Nano Banana` |
-| 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **子ども向け折り紙風誕生日動画**：大人気キャラクターと祝う30秒の魔法のコマ撮り動画 | `Gemini Omni Flash` |
-| 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **マウスポインタテーマ作成器**：推しキャラを指先に、macOS / Windows 向けカスタムカーソル制作 | `macOS` · `Windows 10/11` |
-| 🃏 [**script-to-card-video**](https://github.com/kaomei/script-to-card-video) | **モーションカード動画ジェネレーター**：原稿から9:16縦型インフォグラフィック動画を自動生成 | `Remotion` · `Video Workflow` |
+| 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **1分棒人間アニメ監督**：原稿を6幕のダイナミック分鏡とプロンプトへ一括変換 | `AI 動画ワークフロー` · `Omni Flash` |
+| 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **手描き風動画プロンプト生成器**：ナレーションを9:16クレヨン手描き動画プロンプトへ変換 | `AI 動画ワークフロー` · `Flow / Nano` |
+| 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **子ども向け折り紙風誕生日動画**：大人気キャラクターと祝う30秒の魔法のコマ撮り動画 | `AI 創作アニメ` · `Omni Flash` |
+| 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **マウスポインタテーマ作成器**：推しキャラを指先に、macOS / Windows 向けカスタムカーソル制作 | `デスクトップカスタマイズ` · `macOS / Win` |
+| 🃏 [**script-to-card-video**](https://github.com/kaomei/script-to-card-video) | **モーションカード動画ジェネレーター**：原稿から9:16縦型インフォグラフィック動画を自動生成 | `動画自動化` · `Remotion` |
 
 ---
 
 ### 🎁 フォローするメリット (Why Follow Me?)
 
-- ⚡ **毎週実用的な AI Skill をオープンソース公開**：コード不要、Codex / Antigravity / Gemini にコピーするだけで即使用可能。
-- 🎯 **標準化された動画分鏡とプロンプト集**：検証済みのビジュアルメタファーとカメラワーク指示付き。
-- 🛠️ **ユニークなデジタルツール**：コマ撮り動画からデスクトップカスタマイズまで。
+- 🚀 **実用的な AI Skills＆クリエイティブツールを継続公開**：動画生成、コマ撮り、デスクトップ玩具、今後の多彩な実験的Skillまで。
+- 🎯 **コード不要・即座に使える**：検証済みのプロンプトテンプレート、スクリプト、作例をすべて同梱。
+- 💡 **AI 前線の知見と活用法**：X/Twitter [@CrazyKaomei](https://x.com/CrazyKaomei) でも実践ノウハウを定期発信中。
 
 ---
 
