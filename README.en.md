@@ -21,6 +21,7 @@
 
 | Project | Description | Category / Engines |
 |:---|:---|:---|
+| 🎨 [**cover-studio**](https://github.com/kaomei/cover-studio) | **All-in-One Cover Studio**: Multi-platform viral cover design workflow with 9 integrated engines | `Cover & Visual Design` · `Multi-Platform` |
 | 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **One-Minute Stickman Video Director**: Turn copy into 6-act dynamic storyboard prompts | `AI Video Workflow` · `Omni Flash` |
 | 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **Hand-Drawn Video Prompts**: Turn scripts into 9:16 crayon-doodle image & video prompts | `AI Video Workflow` · `Flow / Nano` |
 | 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **Kid Papercraft Birthday Greetings**: 30-second origami stop-motion films with cartoon heroes | `AI Animation` · `Omni Flash` |
