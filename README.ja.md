@@ -21,12 +21,10 @@
 
 | プロジェクト (Project) | 概要 (Description) | カテゴリ / エンジン |
 |:---|:---|:---|
-| 🎨 [**cover-studio**](https://github.com/kaomei/cover-studio) | **万能カバー画像スタジオ**：全プラットフォーム対応・バズるカバー画像制作ワークフロー | `ビジュアル・カバー制作` · `全サイズ対応` |
 | 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **1分棒人間アニメ監督**：原稿を6幕のダイナミック分鏡とプロンプトへ一括変換 | `AI 動画ワークフロー` · `Omni Flash` |
 | 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **手描き風動画プロンプト生成器**：ナレーションを9:16クレヨン手描き動画プロンプトへ変換 | `AI 動画ワークフロー` · `Flow / Nano` |
 | 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **子ども向け折り紙風誕生日動画**：大人気キャラクターと祝う30秒の魔法のコマ撮り動画 | `AI 創作アニメ` · `Omni Flash` |
 | 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **マウスポインタテーマ作成器**：推しキャラを指先に、macOS / Windows 向けカスタムカーソル制作 | `デスクトップカスタマイズ` · `macOS / Win` |
-| 🃏 [**script-to-card-video**](https://github.com/kaomei/script-to-card-video) | **モーションカード動画ジェネレーター**：原稿から9:16縦型インフォグラフィック動画を自動生成 | `動画自動化` · `Remotion` |
 
 ---
 

@@ -21,12 +21,10 @@
 
 | Proyecto | Descripción | Categoría / Motores |
 |:---|:---|:---|
-| 🎨 [**cover-studio**](https://github.com/kaomei/cover-studio) | **Estudio Universal de Portadas**: Flujo de portadas virales multi-plataforma con 9 motores integrados | `Diseño Visual y Portadas` · `Multiplataforma` |
 | 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **Director de Video Stickman en 1 Minuto**: Guiones a storyboards dinámicos de 6 actos | `Flujo de Video IA` · `Omni Flash` |
 | 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **Generador de Prompts Estilo Garabato**: Locuciones a prompts 9:16 de imagen y video | `Flujo de Video IA` · `Flow / Nano` |
 | 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **Felicitaciones de Cumpleaños en Origami**: Videos mágicos de 30s en stop-motion | `Animación IA` · `Omni Flash` |
 | 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **Creador de Temas de Punteros**: Personaliza cursores nativos para macOS y Windows | `Personalización Escritorio` · `macOS / Win` |
-| 🃏 [**script-to-card-video**](https://github.com/kaomei/script-to-card-video) | **Videos en Tarjetas Animadas**: Convierte guiones en tarjetas dinámicas 9:16 | `Automatización de Video` · `Remotion` |
 
 ---
 

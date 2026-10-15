@@ -21,12 +21,10 @@
 
 | 项目名称 (Project) | 核心功能 (Description) | 适用引擎 / 类别 |
 |:---|:---|:---|
-| 🎨 [**cover-studio**](https://github.com/kaomei/cover-studio) | **万能封面工作室**：一站式全平台爆款封面选型与生成，集成 9 大开源封面引擎 | `视觉与封面设计` · `全平台多尺寸` |
 | 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **一分钟火柴人视频导演**：文案一键转六幕高动态分镜与生成提示词 | `AI 视频工作流` · `Gemini Omni Flash` |
 | 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **Q版手绘视频提示词生成器**：口播秒变 9:16 蜡笔手绘生图与图生视频 Prompt | `AI 视频工作流` · `Flow / Nano Banana` |
 | 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **儿童纸艺定格动画生日祝福**：5大热门动画英雄，为孩子定制 30 秒魔法短片 | `AI 创意动画` · `Gemini Omni Flash` |
 | 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **鼠标指针主题制作器**：把心爱角色带到指尖，原生定制 macOS 与 Windows 光标 | `桌面美化工具` · `macOS / Windows` |
-| 🃏 [**script-to-card-video**](https://github.com/kaomei/script-to-card-video) | **卡片式动态短视频**：口播文案一键转 9:16 杂志风/霓虹风动态信息流短片 | `视频自动化` · `Remotion` |
 
 ---
 
