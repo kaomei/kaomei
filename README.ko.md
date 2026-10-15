@@ -21,12 +21,10 @@
 
 | 프로젝트 (Project) | 설명 (Description) | 카테고리 / 엔진 |
 |:---|:---|:---|
-| 🎨 [**cover-studio**](https://github.com/kaomei/cover-studio) | **만능 커버 스튜디오**：올인원 멀티 플랫폼 썸네일 & 커버 워크플로우 (9대 오픈소스 엔진 통합) | `비주얼 & 커버 디자인` · `전체 비율` |
 | 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **1분 졸라맨 영상 감독**: 원고를 6막 고역동성 스토리보드 프롬프트로 변환 | `AI 영상 워크플로우` · `Omni Flash` |
 | 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **손그림풍 프롬프트 생성기**: 대본을 9:16 크레용 손그림 이미지/영상 프롬프트로 변환 | `AI 영상 워크플로우` · `Flow / Nano` |
 | 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **어린이 종이접기 생일 축하 영상**: 인기 캐릭터와 함께하는 30초 스톱모션 생일 영상 | `AI 창작 애니메이션` · `Omni Flash` |
 | 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **마우스 포인터 테마 메이커**: 최애 캐릭터로 만드는 macOS 및 Windows 맞춤형 커서 | `데스크톱 커스터마이징` · `macOS / Win` |
-| 🃏 [**script-to-card-video**](https://github.com/kaomei/script-to-card-video) | **모션 카드 비디오 생성기**: 대본을 9:16 움직이는 인포그래픽 카드 영상으로 변환 | `영상 자동화` · `Remotion` |
 
 ---
 
