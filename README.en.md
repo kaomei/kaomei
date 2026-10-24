@@ -1,48 +1,68 @@
 <div align="center">
 
-[简体中文](README.md) · [**English**](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
+[**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 疯狂的烤妹儿 🩵 (CrazyKaomei)
+# CrazyKaomei 🩵
 
-### AI Insights · Building Fun Digital Tools · Open-Source Skills & Viral Workflows
+**Open-source AI workflows for faceless YouTube videos.**
 
-<br/>
+I build automated video workflows for **Shorts, explainers, and longer stories**—so you can turn ideas into videos without appearing on camera.
 
-> **Turning cutting-edge AI technology and creative ideas into open-source tools and fun creations.**  
-> *Just vibing with the CYCLE 👀*
+**Follow this profile for new visual styles, working demos, and reusable workflows for your own channel.**
 
-<br/>
-
-</div>
-
----
-
-### 🔥 Featured Open-Source Projects
-
-| Project | Description | Category / Engines |
-|:---|:---|:---|
-| 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **One-Minute Stickman Video Director**: Turn copy into 6-act dynamic storyboard prompts | `AI Video Workflow` · `Omni Flash` |
-| 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **Hand-Drawn Video Prompts**: Turn scripts into 9:16 crayon-doodle image & video prompts | `AI Video Workflow` · `Flow / Nano` |
-| 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **Kid Papercraft Birthday Greetings**: 30-second origami stop-motion films with cartoon heroes | `AI Animation` · `Omni Flash` |
-| 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **Mouse Pointer Theme Maker**: Create custom macOS (.cape) and Windows (.cur) cursor themes | `Desktop Aesthetics` · `macOS / Win` |
-
----
-
-### 🎁 Why Follow Me?
-
-- 🚀 **Continuous Open-Source AI Skills**: Spanning viral video engines, stop-motion animation, desktop toys, and upcoming creative experiments.
-- 🎯 **Ready-to-Use & Zero Friction**: All projects include tested prompt recipes, production-ready scripts, and sample outputs.
-- 💡 **AI Insights & Monetization SOPs**: Practical experiments and industry breakdowns shared regularly on X/Twitter [@CrazyKaomei](https://x.com/CrazyKaomei).
-
----
-
-<div align="center">
-
-[![Follow @CrazyKaomei on X](https://img.shields.io/badge/Follow%20on%20X-@CrazyKaomei-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Follow @kaomei on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-kaomei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaomei)
-
-<br/>
-
-*⭐ If you enjoy my projects, please consider giving a star and following to support open-source work! ⭐*
+[Explore Stickman Video Director →](https://github.com/kaomei/stickman-video-director) · [Tutorials & experiments on X](https://x.com/CrazyKaomei) · [Say hello on Telegram](https://t.me/CrazyKaomei)
 
 </div>
+
+## Your ideas. Your style. No camera required.
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<strong>Minimal Hand-Drawn</strong><br>
+<a href="https://github.com/kaomei/stickman-video-director#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="Minimal hand-drawn stickman video with expressive characters and motion graphics" width="95%"></a>
+</td>
+<td width="50%" align="center">
+<strong>Prehistoric Cave</strong><br>
+<a href="https://github.com/kaomei/stickman-video-director#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="Prehistoric cave stickman animation with expressive action and storytelling" width="95%"></a>
+</td>
+</tr>
+</table>
+
+Two of the styles in [Stickman Video Director](https://github.com/kaomei/stickman-video-director). Click a preview to explore its workflow and examples.
+
+### Start here: Stickman Video Director
+
+Turn a **topic, article, link, or script** into a stickman video with a consistent visual style. Choose how you want to create:
+
+- **A · Director Mode** — Plan the story and get detailed scene-by-scene video prompts. Generate clips, review each shot, and edit them together yourself.
+- **B · Autopilot Mode** — Automate illustrations, voiceover, captions, sound effects, subtle animation, and assembly into a complete video file.
+
+The Skill is free and open source. Autopilot needs image and voice generation services plus local video rendering; connected services may charge separately.
+
+**[See the styles, demos, and getting-started guide →](https://github.com/kaomei/stickman-video-director#quick-start)**
+
+## What you'll find here
+
+- **A recognizable look for your channel.** Explore new visual styles and ways to keep your videos visually consistent.
+- **Examples you can actually watch.** See the output before choosing a workflow, then adapt it to your own topics.
+- **Reusable production workflows.** Spend less time piecing tools together, with open-source Skills for scripts, visuals, narration, and editing.
+
+## Build your creator toolkit
+
+| Project | What it helps you make |
+|:---|:---|
+| 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | Turn narration scripts into vertical hand-drawn image and video prompts. |
+| 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | Turn narration scripts into editable 9:16 motion-card videos. |
+| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | Plan and generate covers for different content platforms. |
+| ✍️ [**X Writing Toolkit**](https://github.com/kaomei/x-baowen) | Explore writing frameworks and examples drawn from high-performing X posts. |
+
+**More creative experiments:** [origami birthday videos](https://github.com/kaomei/kid-papercraft) · [custom macOS & Windows cursors](https://github.com/kaomei/mouse-pointer-theme-maker).
+
+---
+
+### Came for the stickmen? Stay for your next video.
+
+Use the **Follow** button on this profile to keep up with new styles, demos, and open-source video workflows.
+
+For tutorials and experiments: [**@CrazyKaomei on X**](https://x.com/CrazyKaomei). Have a workflow idea or something you've made? [**Message me on Telegram**](https://t.me/CrazyKaomei).

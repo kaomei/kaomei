@@ -1,48 +1,68 @@
 <div align="center">
 
-[**简体中文**](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
+[🇺🇸 EN](README.en.md) · [**🇨🇳 简中**](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 疯狂的烤妹儿 🩵 (CrazyKaomei)
+# CrazyKaomei 🩵
 
-### 手搓一些好玩儿的东西 · 持续开源优质 Skills & 爆款短视频工作流
+**专注不露脸、自动化的 YouTube 视频工作流。**
 
-<br/>
+从 **Shorts 短视频、知识讲解到长篇故事**，把想法变成视频，不用出镜，也能形成自己的视觉风格。
 
-> **让前沿的 AI 技术与创意脑洞，变成每个人都能开箱即用的开源工具与好玩作品。**  
-> *Just vibing with the CYCLE 👀*
+**点击主页的 Follow，持续获取新画风、实战样片和可复用的创作流程。**
 
-<br/>
-
-</div>
-
----
-
-### 🔥 精选开源项目 (Featured Projects)
-
-| 项目名称 (Project) | 核心功能 (Description) | 适用引擎 / 类别 |
-|:---|:---|:---|
-| 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **一分钟火柴人视频导演**：文案一键转六幕高动态分镜与生成提示词 | `AI 视频工作流` · `Gemini Omni Flash` |
-| 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **Q版手绘视频提示词生成器**：口播秒变 9:16 蜡笔手绘生图与图生视频 Prompt | `AI 视频工作流` · `Flow / Nano Banana` |
-| 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **儿童纸艺定格动画生日祝福**：5大热门动画英雄，为孩子定制 30 秒魔法短片 | `AI 创意动画` · `Gemini Omni Flash` |
-| 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **鼠标指针主题制作器**：把心爱角色带到指尖，原生定制 macOS 与 Windows 光标 | `桌面美化工具` · `macOS / Windows` |
-
----
-
-### 🎁 关注我可以获得什么？(Why Follow Me?)
-
-- 🚀 **持续开源优质 AI Skills & 创意工具**：涵盖 AI 爆款视频、定格动画、桌面个性化玩具及更多探索性 Skill。
-- 🎯 **开箱即用，0 门槛上手**：所有项目均配备完整提示词配方、现成脚本与视觉样片，直接复制即用。
-- 💡 **AI 前沿干货与商业落地思考**：同步在 X/Twitter [@CrazyKaomei](https://x.com/CrazyKaomei) 分享实战玩法与行业观察。
-
----
-
-<div align="center">
-
-[![Follow @CrazyKaomei on X](https://img.shields.io/badge/Follow%20on%20X-@CrazyKaomei-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Follow @kaomei on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-kaomei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaomei)
-
-<br/>
-
-*⭐ 如果喜欢我的项目，欢迎点个 Star 和 Follow 支持开源创作！ ⭐*
+[从火柴人视频开始 →](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md) · [在 X 看教程与创作实验](https://x.com/CrazyKaomei) · [通过 Telegram 联系我](https://t.me/CrazyKaomei)
 
 </div>
+
+## 有想法，有自己的画风，不必出镜。
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<strong>极简手绘风</strong><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="极简手绘火柴人视频：夸张表情与丰富微动画" width="95%"></a>
+</td>
+<td width="50%" align="center">
+<strong>史前洞穴风</strong><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="史前洞穴火柴人动画：丰富动作与故事表达" width="95%"></a>
+</td>
+</tr>
+</table>
+
+以上是[火柴人视频工作流](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md)中的两种画风。点击预览，查看对应流程与案例。
+
+### 从这里开始：火柴人视频工作流
+
+给一个**话题、一篇文章、一个链接或故事脚本**，制作画风统一的火柴人视频。按你的创作方式选择：
+
+- **A · 导演模式**：规划故事，生成详细的分镜提示词；你逐段生成视频、检查镜头，再手动剪辑整合。
+- **B · 全自动模式**：自动制作画面、旁白、字幕、音效与微动画，并合成为完整视频文件。
+
+Skill 免费开源。全自动模式需要配置生图、配音服务和本地视频合成环境；所连接的服务可能单独收费。
+
+**[查看全部画风、样片与上手指南 →](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#quick-start)**
+
+## 关注后，你能在这里找到什么？
+
+- **让频道更有辨识度的画风。** 探索新的视觉风格，以及让整部视频画风统一的方法。
+- **能直接看到效果的案例。** 先看作品，再选择适合自己的流程，改编成你想做的主题。
+- **可复用的视频制作流程。** 从文案、画面到配音和剪辑，持续开源实用 Skills，减少反复拼工具的工作。
+
+## 把创作工具箱也配齐
+
+| 项目 | 可以帮你做什么 |
+|:---|:---|
+| 🖍️ [**手绘视频提示词**](https://github.com/kaomei/hand-drawn-video-prompts) | 将口播稿转换成竖屏手绘生图与视频提示词。 |
+| 🎞️ [**脚本转动态卡片视频**](https://github.com/kaomei/script-to-card-video) | 将旁白脚本制作成可编辑的 9:16 动态卡片视频。 |
+| 🎨 [**万能封面工作室**](https://github.com/kaomei/cover-studio) | 为不同内容平台选型并生成封面。 |
+| ✍️ [**X 写作工具箱**](https://github.com/kaomei/x-baowen) | 借鉴高互动 X 文章的写作框架与案例。 |
+
+**更多创意实验：**[纸艺生日祝福视频](https://github.com/kaomei/kid-papercraft) · [macOS 与 Windows 自定义鼠标指针](https://github.com/kaomei/mouse-pointer-theme-maker)。
+
+---
+
+### 因为火柴人来到这里？下一部视频，也一起探索。
+
+点击主页的 **Follow** 按钮，持续获取新画风、样片与开源视频工作流。
+
+教程与创作实验会分享在 [**X：@CrazyKaomei**](https://x.com/CrazyKaomei)。想交流工作流，或分享你的作品？欢迎[**通过 Telegram 联系我**](https://t.me/CrazyKaomei)。

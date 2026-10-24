@@ -1,48 +1,68 @@
 <div align="center">
 
-[简体中文](README.md) · [English](README.en.md) · [**日本語**](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md)
+[🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [**🇯🇵 日本語**](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 疯狂的烤妹儿 🩵 (CrazyKaomei)
+# CrazyKaomei 🩵
 
-### AI 前線考察 · 楽しいものづくり · 役立つAI Skill＆バズるワークフローを継続的にオープンソース公開
+**顔出しなしの YouTube 動画をつくる、オープンソースの AI ワークフロー。**
 
-<br/>
+**ショート動画、解説動画、長編ストーリー**の制作を自動化するワークフローを開発しています。カメラの前に立たなくても、アイデアを自分らしい動画に。
 
-> **最先端の AI 技術とクリエイティブなアイデアを、誰もがすぐに使えるオープンソースツールと作品へ。**  
-> *Just vibing with the CYCLE 👀*
+**新しい画風、実際の作例、自分のチャンネルに応用できる制作フローを探している方は、ぜひフォローしてください。**
 
-<br/>
-
-</div>
-
----
-
-### 🔥 注目のオープンソースプロジェクト (Featured Projects)
-
-| プロジェクト (Project) | 概要 (Description) | カテゴリ / エンジン |
-|:---|:---|:---|
-| 🎬 [**stickman-video-director**](https://github.com/kaomei/stickman-video-director) | **1分棒人間アニメ監督**：原稿を6幕のダイナミック分鏡とプロンプトへ一括変換 | `AI 動画ワークフロー` · `Omni Flash` |
-| 🖍️ [**hand-drawn-video-prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | **手描き風動画プロンプト生成器**：ナレーションを9:16クレヨン手描き動画プロンプトへ変換 | `AI 動画ワークフロー` · `Flow / Nano` |
-| 🎂 [**kid-papercraft**](https://github.com/kaomei/kid-papercraft) | **子ども向け折り紙風誕生日動画**：大人気キャラクターと祝う30秒の魔法のコマ撮り動画 | `AI 創作アニメ` · `Omni Flash` |
-| 🖱️ [**mouse-pointer-theme-maker**](https://github.com/kaomei/mouse-pointer-theme-maker) | **マウスポインタテーマ作成器**：推しキャラを指先に、macOS / Windows 向けカスタムカーソル制作 | `デスクトップカスタマイズ` · `macOS / Win` |
-
----
-
-### 🎁 フォローするメリット (Why Follow Me?)
-
-- 🚀 **実用的な AI Skills＆クリエイティブツールを継続公開**：動画生成、コマ撮り、デスクトップ玩具、今後の多彩な実験的Skillまで。
-- 🎯 **コード不要・即座に使える**：検証済みのプロンプトテンプレート、スクリプト、作例をすべて同梱。
-- 💡 **AI 前線の知見と活用法**：X/Twitter [@CrazyKaomei](https://x.com/CrazyKaomei) でも実践ノウハウを定期発信中。
-
----
-
-<div align="center">
-
-[![Follow @CrazyKaomei on X](https://img.shields.io/badge/Follow%20on%20X-@CrazyKaomei-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Follow @kaomei on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-kaomei-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaomei)
-
-<br/>
-
-*⭐ プロジェクトが気に入ったら、ぜひ Star と Follow で応援してください！ ⭐*
+[Stickman Video Director を見る →](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md) · [X でチュートリアルと制作実験を見る](https://x.com/CrazyKaomei) · [Telegram で話す](https://t.me/CrazyKaomei)
 
 </div>
+
+## アイデアも、画風も、あなたらしく。顔出しは不要。
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<strong>ミニマル手描き風</strong><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="表情豊かなキャラクターとモーショングラフィックスを使った、ミニマルな手描き風棒人間動画" width="95%"></a>
+</td>
+<td width="50%" align="center">
+<strong>先史時代の洞窟風</strong><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="豊かな動きで物語を伝える、先史時代の洞窟風棒人間アニメーション" width="95%"></a>
+</td>
+</tr>
+</table>
+
+[Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md) で使える画風の一例です。プレビューをクリックすると、制作フローと作例を確認できます。
+
+### まずはこちら：Stickman Video Director
+
+**テーマ、記事、リンク、台本**から、画風のそろった棒人間動画を制作。自分に合ったつくり方を選べます。
+
+- **A · ディレクターモード** — 物語を組み立て、シーンごとの詳しい動画生成プロンプトを作成。クリップの生成、各カットの確認、編集は自分で進めます。
+- **B · 全自動モード** — イラスト、ナレーション、字幕、効果音、さりげないアニメーションから編集までを自動化し、完成した動画ファイルに仕上げます。
+
+Skill は無料・オープンソースです。全自動モードには画像・音声生成サービスとローカルの動画合成環境が必要です。連携サービスの利用料は別途かかる場合があります。
+
+**[画風・作例・はじめ方を見る →](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#quick-start)**
+
+## フォローすると、こんなものが見つかります
+
+- **チャンネルの個性になる画風。** 新しいビジュアル表現と、動画全体の画風をそろえる方法を探れます。
+- **実際に見て選べる作例。** 完成イメージを確認してから制作フローを選び、自分のテーマに応用できます。
+- **繰り返し使える制作フロー。** 台本、画像、ナレーション、編集のためのオープンソース Skills で、ツールをつなぎ合わせる手間を減らせます。
+
+## 動画づくりの道具箱
+
+| プロジェクト | できること |
+|:---|:---|
+| 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | ナレーション台本を、縦型の手描き風画像・動画プロンプトに変換。 |
+| 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | ナレーション台本から、編集可能な 9:16 のモーションカード動画を制作。 |
+| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | 投稿先に合ったカバー画像を企画・生成。 |
+| ✍️ [**X Writing Toolkit**](https://github.com/kaomei/x-baowen) | 反響を集めた X 投稿から、文章の組み立て方と実例を学ぶ。 |
+
+**ほかの制作実験：** [折り紙風の誕生日動画](https://github.com/kaomei/kid-papercraft) · [macOS・Windows 用カスタムカーソル](https://github.com/kaomei/mouse-pointer-theme-maker)。
+
+---
+
+### 棒人間動画がきっかけなら、次の一本も一緒に。
+
+このプロフィールの **Follow** ボタンから、新しい画風、作例、オープンソースの動画制作フローをチェックしてください。
+
+チュートリアルや制作実験は [**X：@CrazyKaomei**](https://x.com/CrazyKaomei) でも紹介しています。ワークフローの相談や作品の共有は、[**Telegram でお気軽にどうぞ**](https://t.me/CrazyKaomei)。
