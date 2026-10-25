@@ -48,15 +48,6 @@ Skill은 무료 오픈소스입니다. 자동 제작 모드에는 이미지·음
 - **직접 보고 고를 수 있는 제작 사례.** 결과물을 확인한 뒤 워크플로를 선택하고, 내 주제에 맞게 응용할 수 있습니다.
 - **다시 쓸 수 있는 제작 워크플로.** 대본, 이미지, 내레이션, 편집용 오픈소스 Skills로 도구를 하나씩 연결하는 수고를 줄입니다.
 
-## 창작 도구함을 채워 보세요
-
-| 프로젝트 | 이런 작업을 도와줘요 |
-|:---|:---|
-| 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | 내레이션 대본을 세로형 손그림 이미지·영상 프롬프트로 변환합니다. |
-| 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | 내레이션 대본을 편집 가능한 9:16 모션 카드 영상으로 만듭니다. |
-
-**더 많은 창작 실험:** [종이접기 스타일 생일 영상](https://github.com/kaomei/kid-papercraft) · [macOS·Windows용 맞춤 마우스 커서](https://github.com/kaomei/mouse-pointer-theme-maker).
-
 ---
 
 ### 스틱맨을 보고 오셨나요? 다음 영상도 함께 만들어 가요.

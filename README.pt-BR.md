@@ -48,15 +48,6 @@ A Skill é gratuita e de código aberto. O modo automático exige serviços de g
 - **Exemplos para assistir de verdade.** Veja o resultado antes de escolher um fluxo e adapte-o aos seus próprios temas.
 - **Fluxos de produção reutilizáveis.** Gaste menos tempo conectando ferramentas, com Skills de código aberto para roteiro, imagens, narração e edição.
 
-## Monte seu kit de criação
-
-| Projeto | O que ajuda você a criar |
-|:---|:---|
-| 🖍️ [**Prompts de vídeo desenhado à mão**](https://github.com/kaomei/hand-drawn-video-prompts) | Transforme roteiros de narração em prompts para imagens e vídeos verticais com estilo de desenho à mão. |
-| 🎞️ [**Do roteiro ao vídeo com cards**](https://github.com/kaomei/script-to-card-video) | Transforme roteiros de narração em vídeos editáveis de cards animados no formato 9:16. |
-
-**Mais experimentos criativos:** [vídeos de aniversário com origami](https://github.com/kaomei/kid-papercraft) · [cursores personalizados para macOS e Windows](https://github.com/kaomei/mouse-pointer-theme-maker).
-
 ---
 
 ### Chegou pelos bonecos-palito? Fique para o seu próximo vídeo.

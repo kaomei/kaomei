@@ -48,15 +48,6 @@ Skill ini gratis dan open source. Mode otomatis memerlukan layanan pembuat gamba
 - **Contoh yang benar-benar bisa ditonton.** Lihat hasilnya sebelum memilih alur kerja, lalu sesuaikan dengan topikmu sendiri.
 - **Alur produksi yang bisa dipakai ulang.** Hemat waktu merangkai berbagai alat dengan Skills open source untuk naskah, visual, narasi, dan penyuntingan.
 
-## Lengkapi perangkat kreasimu
-
-| Proyek | Yang bisa kamu buat |
-|:---|:---|
-| 🖍️ [**Prompt Video Gambar Tangan**](https://github.com/kaomei/hand-drawn-video-prompts) | Ubah naskah narasi menjadi prompt gambar dan video vertikal bergaya gambar tangan. |
-| 🎞️ [**Dari Naskah ke Video Kartu**](https://github.com/kaomei/script-to-card-video) | Ubah naskah narasi menjadi video kartu bergerak 9:16 yang bisa diedit. |
-
-**Eksperimen kreatif lainnya:** [video ulang tahun origami](https://github.com/kaomei/kid-papercraft) · [kursor khusus untuk macOS dan Windows](https://github.com/kaomei/mouse-pointer-theme-maker).
-
 ---
 
 ### Mampir karena stickman? Tetap ikuti untuk video berikutnya.

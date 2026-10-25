@@ -48,15 +48,6 @@ Le Skill est gratuit et open source. Le mode Autopilote nécessite des services 
 - **Des exemples à regarder, pas seulement des promesses.** Découvrez le résultat avant de choisir un workflow, puis adaptez-le à vos sujets.
 - **Des workflows de production réutilisables.** Passez moins de temps à assembler des outils grâce à des Skills open source pour les scripts, les visuels, la narration et le montage.
 
-## Complétez votre boîte à outils créative
-
-| Projet | Ce qu’il vous permet de créer |
-|:---|:---|
-| 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | Des prompts d’images et de vidéos verticales au style dessiné à la main, à partir d’un texte de narration. |
-| 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | Des vidéos de cartes animées au format 9:16, modifiables, à partir d’un script de narration. |
-
-**D’autres expérimentations créatives :** [vidéos d’anniversaire façon origami](https://github.com/kaomei/kid-papercraft) · [curseurs personnalisés pour macOS et Windows](https://github.com/kaomei/mouse-pointer-theme-maker).
-
 ---
 
 ### Vous êtes venu pour les personnages bâtons ? Restez pour votre prochaine vidéo.

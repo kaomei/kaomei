@@ -48,15 +48,6 @@ Skill ücretsiz ve açık kaynaklıdır. Otomatik mod için görsel ve ses üret
 - **İzleyebileceğiniz gerçek örnekler.** Bir iş akışını seçmeden önce sonucunu görün, sonra kendi konularınıza uyarlayın.
 - **Yeniden kullanılabilir üretim akışları.** Senaryo, görsel, seslendirme ve kurgu için açık kaynaklı Skills ile araçları birbirine bağlamaya daha az zaman harcayın.
 
-## İçerik üretim araç kutunuzu oluşturun
-
-| Proje | Neler üretmenize yardımcı olur? |
-|:---|:---|
-| 🖍️ [**El Çizimi Video İstemleri**](https://github.com/kaomei/hand-drawn-video-prompts) | Seslendirme metinlerini el çizimi tarzında dikey görsel ve video istemlerine dönüştürün. |
-| 🎞️ [**Senaryodan Kart Videoya**](https://github.com/kaomei/script-to-card-video) | Seslendirme metinlerini düzenlenebilir 9:16 hareketli kart videolarına dönüştürün. |
-
-**Diğer yaratıcı denemeler:** [origami doğum günü videoları](https://github.com/kaomei/kid-papercraft) · [macOS ve Windows için özel fare imleçleri](https://github.com/kaomei/mouse-pointer-theme-maker).
-
 ---
 
 ### Çöp adamlar için mi geldiniz? Bir sonraki videonuz için kalın.
