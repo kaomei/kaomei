@@ -54,8 +54,6 @@ A Skill é gratuita e de código aberto. O modo automático exige serviços de g
 |:---|:---|
 | 🖍️ [**Prompts de vídeo desenhado à mão**](https://github.com/kaomei/hand-drawn-video-prompts) | Transforme roteiros de narração em prompts para imagens e vídeos verticais com estilo de desenho à mão. |
 | 🎞️ [**Do roteiro ao vídeo com cards**](https://github.com/kaomei/script-to-card-video) | Transforme roteiros de narração em vídeos editáveis de cards animados no formato 9:16. |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | Planeje e gere capas para diferentes plataformas de conteúdo. |
-| ✍️ [**Kit de escrita para o X**](https://github.com/kaomei/x-baowen) | Explore estruturas de escrita e exemplos inspirados em posts com alto engajamento no X. |
 
 **Mais experimentos criativos:** [vídeos de aniversário com origami](https://github.com/kaomei/kid-papercraft) · [cursores personalizados para macOS e Windows](https://github.com/kaomei/mouse-pointer-theme-maker).
 

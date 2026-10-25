@@ -54,8 +54,6 @@ Skill ücretsiz ve açık kaynaklıdır. Otomatik mod için görsel ve ses üret
 |:---|:---|
 | 🖍️ [**El Çizimi Video İstemleri**](https://github.com/kaomei/hand-drawn-video-prompts) | Seslendirme metinlerini el çizimi tarzında dikey görsel ve video istemlerine dönüştürün. |
 | 🎞️ [**Senaryodan Kart Videoya**](https://github.com/kaomei/script-to-card-video) | Seslendirme metinlerini düzenlenebilir 9:16 hareketli kart videolarına dönüştürün. |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | Farklı içerik platformları için kapaklar planlayın ve üretin. |
-| ✍️ [**X Yazım Araç Kutusu**](https://github.com/kaomei/x-baowen) | X'te yüksek etkileşim alan gönderilerden uyarlanan yazım yapılarını ve örnekleri keşfedin. |
 
 **Diğer yaratıcı denemeler:** [origami doğum günü videoları](https://github.com/kaomei/kid-papercraft) · [macOS ve Windows için özel fare imleçleri](https://github.com/kaomei/mouse-pointer-theme-maker).
 

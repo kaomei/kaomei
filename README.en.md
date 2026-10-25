@@ -54,8 +54,6 @@ The Skill is free and open source. Autopilot needs image and voice generation se
 |:---|:---|
 | 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | Turn narration scripts into vertical hand-drawn image and video prompts. |
 | 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | Turn narration scripts into editable 9:16 motion-card videos. |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | Plan and generate covers for different content platforms. |
-| ✍️ [**X Writing Toolkit**](https://github.com/kaomei/x-baowen) | Explore writing frameworks and examples drawn from high-performing X posts. |
 
 **More creative experiments:** [origami birthday videos](https://github.com/kaomei/kid-papercraft) · [custom macOS & Windows cursors](https://github.com/kaomei/mouse-pointer-theme-maker).
 

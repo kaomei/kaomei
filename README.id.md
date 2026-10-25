@@ -54,8 +54,6 @@ Skill ini gratis dan open source. Mode otomatis memerlukan layanan pembuat gamba
 |:---|:---|
 | 🖍️ [**Prompt Video Gambar Tangan**](https://github.com/kaomei/hand-drawn-video-prompts) | Ubah naskah narasi menjadi prompt gambar dan video vertikal bergaya gambar tangan. |
 | 🎞️ [**Dari Naskah ke Video Kartu**](https://github.com/kaomei/script-to-card-video) | Ubah naskah narasi menjadi video kartu bergerak 9:16 yang bisa diedit. |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | Rencanakan dan buat sampul untuk berbagai platform konten. |
-| ✍️ [**Perangkat Menulis untuk X**](https://github.com/kaomei/x-baowen) | Jelajahi kerangka penulisan dan contoh yang diadaptasi dari unggahan X dengan interaksi tinggi. |
 
 **Eksperimen kreatif lainnya:** [video ulang tahun origami](https://github.com/kaomei/kid-papercraft) · [kursor khusus untuk macOS dan Windows](https://github.com/kaomei/mouse-pointer-theme-maker).
 
