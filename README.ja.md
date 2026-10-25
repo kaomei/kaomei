@@ -54,8 +54,6 @@ Skill は無料・オープンソースです。全自動モードには画像�
 |:---|:---|
 | 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | ナレーション台本を、縦型の手描き風画像・動画プロンプトに変換。 |
 | 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | ナレーション台本から、編集可能な 9:16 のモーションカード動画を制作。 |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | 投稿先に合ったカバー画像を企画・生成。 |
-| ✍️ [**X Writing Toolkit**](https://github.com/kaomei/x-baowen) | 反響を集めた X 投稿から、文章の組み立て方と実例を学ぶ。 |
 
 **ほかの制作実験：** [折り紙風の誕生日動画](https://github.com/kaomei/kid-papercraft) · [macOS・Windows 用カスタムカーソル](https://github.com/kaomei/mouse-pointer-theme-maker)。
 

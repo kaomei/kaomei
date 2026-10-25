@@ -54,8 +54,6 @@ Le Skill est gratuit et open source. Le mode Autopilote nécessite des services 
 |:---|:---|
 | 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | Des prompts d’images et de vidéos verticales au style dessiné à la main, à partir d’un texte de narration. |
 | 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | Des vidéos de cartes animées au format 9:16, modifiables, à partir d’un script de narration. |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | Des visuels de couverture pensés et générés pour différentes plateformes. |
-| ✍️ [**X Writing Toolkit**](https://github.com/kaomei/x-baowen) | Des structures rédactionnelles et des exemples tirés de publications X ayant suscité de nombreuses interactions. |
 
 **D’autres expérimentations créatives :** [vidéos d’anniversaire façon origami](https://github.com/kaomei/kid-papercraft) · [curseurs personnalisés pour macOS et Windows](https://github.com/kaomei/mouse-pointer-theme-maker).
 

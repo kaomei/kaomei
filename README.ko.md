@@ -54,8 +54,6 @@ Skill은 무료 오픈소스입니다. 자동 제작 모드에는 이미지·음
 |:---|:---|
 | 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | 내레이션 대본을 세로형 손그림 이미지·영상 프롬프트로 변환합니다. |
 | 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | 내레이션 대본을 편집 가능한 9:16 모션 카드 영상으로 만듭니다. |
-| 🎨 [**Cover Studio**](https://github.com/kaomei/cover-studio) | 콘텐츠 플랫폼에 맞는 커버 이미지를 기획하고 생성합니다. |
-| ✍️ [**X Writing Toolkit**](https://github.com/kaomei/x-baowen) | 반응이 좋았던 X 게시물의 글쓰기 구조와 사례를 살펴봅니다. |
 
 **더 많은 창작 실험:** [종이접기 스타일 생일 영상](https://github.com/kaomei/kid-papercraft) · [macOS·Windows용 맞춤 마우스 커서](https://github.com/kaomei/mouse-pointer-theme-maker).
 

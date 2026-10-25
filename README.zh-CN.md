@@ -54,8 +54,6 @@ Skill 免费开源。全自动模式需要配置生图、配音服务和本地�
 |:---|:---|
 | 🖍️ [**手绘视频提示词**](https://github.com/kaomei/hand-drawn-video-prompts) | 将口播稿转换成竖屏手绘生图与视频提示词。 |
 | 🎞️ [**脚本转动态卡片视频**](https://github.com/kaomei/script-to-card-video) | 将旁白脚本制作成可编辑的 9:16 动态卡片视频。 |
-| 🎨 [**万能封面工作室**](https://github.com/kaomei/cover-studio) | 为不同内容平台选型并生成封面。 |
-| ✍️ [**X 写作工具箱**](https://github.com/kaomei/x-baowen) | 借鉴高互动 X 文章的写作框架与案例。 |
 
 **更多创意实验：**[纸艺生日祝福视频](https://github.com/kaomei/kid-papercraft) · [macOS 与 Windows 自定义鼠标指针](https://github.com/kaomei/mouse-pointer-theme-maker)。
 
