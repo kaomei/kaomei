@@ -48,15 +48,6 @@ Skill 免费开源。全自动模式需要配置生图、配音服务和本地�
 - **能直接看到效果的案例。** 先看作品，再选择适合自己的流程，改编成你想做的主题。
 - **可复用的视频制作流程。** 从文案、画面到配音和剪辑，持续开源实用 Skills，减少反复拼工具的工作。
 
-## 把创作工具箱也配齐
-
-| 项目 | 可以帮你做什么 |
-|:---|:---|
-| 🖍️ [**手绘视频提示词**](https://github.com/kaomei/hand-drawn-video-prompts) | 将口播稿转换成竖屏手绘生图与视频提示词。 |
-| 🎞️ [**脚本转动态卡片视频**](https://github.com/kaomei/script-to-card-video) | 将旁白脚本制作成可编辑的 9:16 动态卡片视频。 |
-
-**更多创意实验：**[纸艺生日祝福视频](https://github.com/kaomei/kid-papercraft) · [macOS 与 Windows 自定义鼠标指针](https://github.com/kaomei/mouse-pointer-theme-maker)。
-
 ---
 
 ### 因为火柴人来到这里？下一部视频，也一起探索。

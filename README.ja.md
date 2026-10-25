@@ -48,15 +48,6 @@ Skill は無料・オープンソースです。全自動モードには画像�
 - **実際に見て選べる作例。** 完成イメージを確認してから制作フローを選び、自分のテーマに応用できます。
 - **繰り返し使える制作フロー。** 台本、画像、ナレーション、編集のためのオープンソース Skills で、ツールをつなぎ合わせる手間を減らせます。
 
-## 動画づくりの道具箱
-
-| プロジェクト | できること |
-|:---|:---|
-| 🖍️ [**Hand-Drawn Video Prompts**](https://github.com/kaomei/hand-drawn-video-prompts) | ナレーション台本を、縦型の手描き風画像・動画プロンプトに変換。 |
-| 🎞️ [**Script to Card Video**](https://github.com/kaomei/script-to-card-video) | ナレーション台本から、編集可能な 9:16 のモーションカード動画を制作。 |
-
-**ほかの制作実験：** [折り紙風の誕生日動画](https://github.com/kaomei/kid-papercraft) · [macOS・Windows 用カスタムカーソル](https://github.com/kaomei/mouse-pointer-theme-maker)。
-
 ---
 
 ### 棒人間動画がきっかけなら、次の一本も一緒に。
