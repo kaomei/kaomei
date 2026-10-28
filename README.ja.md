@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>あらゆるテキスト台本を、バズる多彩な画風の棒人間アニメーション動画に — 100% 無料・オープンソース。</b><br>
+  <b>あらゆるテキスト台本を、バズる多彩な画風のアニメーション動画に — 100% 無料・オープンソース。</b><br>
   顔出し不要。月額 50 ドルのサブスクリプションも不要。何日も待たず、数分で完成。
 </p>
 

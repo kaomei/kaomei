@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>Herhangi bir metin senaryosunu viral, çok stilli çöp adam animasyon videolarına dönüştürün — %100 Ücretsiz ve Açık Kaynak.</b><br>
+  <b>Herhangi bir metin senaryosunu viral, çok stilli animasyon videolarına dönüştürün — %100 Ücretsiz ve Açık Kaynak.</b><br>
   Kamera yok, aylık 50 dolarlık abonelikler yok; günler değil, dakikalar içinde hazır.
 </p>
 

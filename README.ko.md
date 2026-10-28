@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>어떤 텍스트 대본이든 다양한 화풍의 바이럴 스틱맨 애니메이션 영상으로 — 100% 무료 & 오픈소스.</b><br>
+  <b>어떤 텍스트 대본이든 다양한 화풍의 바이럴 애니메이션 영상으로 — 100% 무료 & 오픈소스.</b><br>
   카메라 없이, 월 50달러 구독 없이, 며칠이 아닌 몇 분 만에 완성.
 </p>
 
