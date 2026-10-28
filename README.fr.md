@@ -2,56 +2,75 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [**🇫🇷 FR**](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# CrazyKaomei 🩵
+<br>
 
-**Des workflows IA open source pour créer des vidéos YouTube sans montrer son visage.**
+# Salut, je suis Kaomei (vous pouvez m'appeler Mei) 🩵
 
-Je développe des workflows automatisés pour les **Shorts, les vidéos explicatives et les récits longs** : de quoi transformer vos idées en vidéos sans passer devant la caméra.
+### Je crée des Skills vidéo IA open source pour les créateurs sans visage
 
-**Suivez ce profil pour découvrir de nouveaux styles visuels, des démos concrètes et des workflows réutilisables pour votre chaîne.**
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
+[![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
-[Découvrir Stickman Video Director →](https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md) · [Tutoriels et expérimentations sur X](https://x.com/CrazyKaomei) · [Discuter sur Telegram](https://t.me/CrazyKaomei)
+<br>
+
+<p align="center">
+  <b>Transformez n’importe quel script texte en vidéos animées de bonshommes bâtons virales et multistyles — 100 % gratuites et open source.</b><br>
+  Sans caméra, sans abonnement à 50 $/mois, et prêt en quelques minutes, pas en plusieurs jours.
+</p>
 
 </div>
 
-## Vos idées. Votre style. Sans caméra.
+---
+
+### 🎬 Projet phare à découvrir: Stickman Video Director
+
+**⭐ Plus de 3 000 étoiles sur GitHub**
+
+Le réalisateur IA autonome qui transforme de simples scripts texte en vidéos animées de bonshommes bâtons virales et multistyles — spécialement conçu pour les chaînes YouTube sans visage.
+
+- **Du script à la narration vidéo**: Transforme automatiquement un texte simple en storyboards, chorégraphies de bonshommes bâtons, expressions des personnages et rythme comique.
+- **Moteur visuel multistyle**: Passez sans transition entre plusieurs styles (dessin minimaliste à la main, grotte préhistorique, mèmes en BD).
+- **Conçu pour l’automatisation YouTube**: Le moyen le plus rapide et 100 % gratuit de gérer une chaîne de récits sans montrer votre visage ni payer des frais SaaS élevés.
+
+👉 **[Découvrir Stickman Video Director sur GitHub →](https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md)** &nbsp;|&nbsp; **[Lire le tutoriel sur X →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+
+---
+
+### 🎨 Galerie des styles visuels
 
 <table width="100%">
 <tr>
+<th width="50%" align="center">Dessin minimaliste à la main</th>
+<th width="50%" align="center">Homme des cavernes préhistorique</th>
+</tr>
+<tr>
 <td width="50%" align="center">
-<strong>Dessin à la main minimaliste</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="Vidéo de personnages bâtons au trait minimaliste, avec des expressions marquées et des animations graphiques" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Dessin minimaliste à la main"></a><br>
+<em>Épuré, net, dans l’esprit de Casually Explained.</em>
 </td>
 <td width="50%" align="center">
-<strong>Grotte préhistorique</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="Animation de personnages bâtons dans un univers de grotte préhistorique, avec des gestes expressifs au service du récit" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" width="400" alt="Homme des cavernes préhistorique"></a><br>
+<em>Récits viraux, légendes anciennes et ironie.</em>
 </td>
 </tr>
 </table>
 
-Deux des styles proposés dans [Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md). Cliquez sur un aperçu pour découvrir le processus de création et les exemples.
+---
 
-### Pour commencer : Stickman Video Director
+### 🔮 Quoi de neuf bientôt ?
 
-Transformez un **sujet, un article, un lien ou un script** en vidéo de personnages bâtons au style visuel cohérent. Choisissez votre façon de créer :
+Je conçois et publie régulièrement de nouveaux Skills d’automatisation vidéo en open source. Cliquez sur **`Follow`** en haut à gauche pour suivre les nouveautés :
 
-- **A · Mode Réalisateur** — Construisez le récit et obtenez des prompts vidéo détaillés, scène par scène. Vous générez les séquences, vérifiez chaque plan et réalisez le montage.
-- **B · Mode Autopilote** — Automatisez les illustrations, la voix off, les sous-titres, les effets sonores, les animations légères et le montage pour obtenir un fichier vidéo complet.
-
-Le Skill est gratuit et open source. Le mode Autopilote nécessite des services de génération d’images et de voix ainsi qu’un environnement local de rendu vidéo. Les services connectés peuvent être facturés séparément.
-
-**[Voir les styles, les démos et le guide de démarrage →](https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#quick-start)**
-
-## Ce que vous trouverez ici
-
-- **Une identité visuelle pour votre chaîne.** Explorez de nouveaux styles et des méthodes pour garder une esthétique cohérente d’une scène à l’autre.
-- **Des exemples à regarder, pas seulement des promesses.** Découvrez le résultat avant de choisir un workflow, puis adaptez-le à vos sujets.
-- **Des workflows de production réutilisables.** Passez moins de temps à assembler des outils grâce à des Skills open source pour les scripts, les visuels, la narration et le montage.
+- [x] **Stickman Video : mode réalisateur** *(Disponible · 6 styles visuels prêts à l’emploi)*
+- [ ] **Stickman Video : mode AutoPilot** *(Prochaine sortie · 6+ nouveaux styles)*
+- [ ] **Narrateur en pixel art rétro** *(En développement · esthétique nostalgique 16-bit)*
+- [ ] **Publication de Shorts sans visage en un clic** *(Expérimental · export automatique vers YouTube et TikTok)*
 
 ---
 
-### Vous êtes venu pour les personnages bâtons ? Restez pour votre prochaine vidéo.
+### 🌐 Restons en contact
 
-Cliquez sur **Follow** sur ce profil pour suivre les nouveaux styles, les démos et les workflows vidéo open source.
-
-Retrouvez les tutoriels et les expérimentations sur [**X : @CrazyKaomei**](https://x.com/CrazyKaomei). Une idée de workflow ou une création à partager ? [**Écrivez-moi sur Telegram**](https://t.me/CrazyKaomei).
+- 🐦 [**X**](https://x.com/CrazyKaomei): Tutoriels IA quotidiens, conseils d’automatisation vidéo et workflows sans blabla.
+- 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): Journaux de création complets, tutoriels pas à pas et études de cas.
+- 💬 [**Contact**](https://t.me/CrazyKaomei): Dites bonjour, demandez de nouveaux styles visuels ou discutons d’une collaboration.

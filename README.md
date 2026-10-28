@@ -2,56 +2,75 @@
 
 [**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# CrazyKaomei 🩵
+<br>
 
-**Open-source AI workflows for faceless YouTube videos.**
+# Hey, I'm Kaomei (you can call me Mei) 🩵
 
-I build automated video workflows for **Shorts, explainers, and longer stories**—so you can turn ideas into videos without appearing on camera.
+### Building Open-Source AI Video Skills for Faceless Creators
 
-**Follow this profile for new visual styles, working demos, and reusable workflows for your own channel.**
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
+[![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
-[Explore Stickman Video Director →](https://github.com/kaomei/stickman-video-director) · [Tutorials & experiments on X](https://x.com/CrazyKaomei) · [Say hello on Telegram](https://t.me/CrazyKaomei)
+<br>
+
+<p align="center">
+  <b>Turn any text script into viral, multi-style animated stickman videos — 100% Free & Open Source.</b><br>
+  No camera, no $50/mo subscriptions, and ready in minutes, not days.
+</p>
 
 </div>
 
-## Your ideas. Your style. No camera required.
+---
+
+### 🎬 Featured Flagship: Stickman Video Director
+
+**⭐ 3,000+ Stars on GitHub**
+
+The autonomous AI director that turns plain text scripts into viral, multi-style animated stickman videos—specifically engineered for Faceless YouTube Channels.
+
+- **Script-to-Video Storytelling**: Automatically turns plain text into storyboards, stickman choreography, character expressions, and comedic timing.
+- **Multi-Style Visual Engine**: Switch seamlessly across diverse art styles (Minimal Hand-Drawn, Prehistoric Cave, Comic Meme).
+- **Built for YouTube Automation**: The fastest, 100% free way to run a storytelling channel without showing your face or paying high SaaS fees.
+
+👉 **[Explore Stickman Video Director on GitHub →](https://github.com/kaomei/stickman-video-director)** &nbsp;|&nbsp; **[Read the tutorial on X →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+
+---
+
+### 🎨 Visual Style Gallery
 
 <table width="100%">
 <tr>
+<th width="50%" align="center">Minimal Hand-Drawn</th>
+<th width="50%" align="center">Prehistoric Caveman</th>
+</tr>
+<tr>
 <td width="50%" align="center">
-<strong>Minimal Hand-Drawn</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="Minimal hand-drawn stickman video with expressive characters and motion graphics" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Minimal Hand-Drawn"></a><br>
+<em>Clean, sharp, Casually Explained vibe.</em>
 </td>
 <td width="50%" align="center">
-<strong>Prehistoric Cave</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="Prehistoric cave stickman animation with expressive action and storytelling" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" width="400" alt="Prehistoric Caveman"></a><br>
+<em>Viral storytelling, ancient lore & irony.</em>
 </td>
 </tr>
 </table>
 
-Two of the styles in [Stickman Video Director](https://github.com/kaomei/stickman-video-director). Click a preview to explore its workflow and examples.
+---
 
-### Start here: Stickman Video Director
+### 🔮 What’s Dropping Next?
 
-Turn a **topic, article, link, or script** into a stickman video with a consistent visual style. Choose how you want to create:
+I actively design and open-source new video automation skills. Hit **`Follow`** in the top-left to stay updated:
 
-- **A · Director Mode** — Plan the story and get detailed scene-by-scene video prompts. Generate clips, review each shot, and edit them together yourself.
-- **B · Autopilot Mode** — Automate illustrations, voiceover, captions, sound effects, subtle animation, and assembly into a complete video file.
-
-The Skill is free and open source. Autopilot needs image and voice generation services plus local video rendering; connected services may charge separately.
-
-**[See the styles, demos, and getting-started guide →](https://github.com/kaomei/stickman-video-director#quick-start)**
-
-## What you'll find here
-
-- **A recognizable look for your channel.** Explore new visual styles and ways to keep your videos visually consistent.
-- **Examples you can actually watch.** See the output before choosing a workflow, then adapt it to your own topics.
-- **Reusable production workflows.** Spend less time piecing tools together, with open-source Skills for scripts, visuals, narration, and editing.
+- [x] **Stickman Video: Director Mode** *(Live · 6 visual styles ready)*
+- [ ] **Stickman Video: AutoPilot Mode** *(Next Drop · 6+ new styles)*
+- [ ] **Retro Pixel Art Storyteller** *(In the lab · 16-bit nostalgic aesthetic)*
+- [ ] **1-Click Faceless Shorts Publisher** *(Experimental · auto-export to YouTube & TikTok)*
 
 ---
 
-### Came for the stickmen? Stay for your next video.
+### 🌐 Let’s Connect
 
-Use the **Follow** button on this profile to keep up with new styles, demos, and open-source video workflows.
-
-For tutorials and experiments: [**@CrazyKaomei on X**](https://x.com/CrazyKaomei). Have a workflow idea or something you've made? [**Message me on Telegram**](https://t.me/CrazyKaomei).
+- 🐦 [**X**](https://x.com/CrazyKaomei): Daily AI tutorials, video automation tips, and zero-bullshit workflows.
+- 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): Full-length build logs, step-by-step tutorials & case studies.
+- 💬 [**Contact**](https://t.me/CrazyKaomei): Say hello, request new visual styles, or discuss collaborations.
