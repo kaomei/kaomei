@@ -2,56 +2,75 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [**🇯🇵 日本語**](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# CrazyKaomei 🩵
+<br>
 
-**顔出しなしの YouTube 動画をつくる、オープンソースの AI ワークフロー。**
+# こんにちは、Kaomeiです（メイと呼んでね）🩵
 
-**ショート動画、解説動画、長編ストーリー**の制作を自動化するワークフローを開発しています。カメラの前に立たなくても、アイデアを自分らしい動画に。
+### 顔出しなしのクリエイター向けに、オープンソースの AI 動画 Skills を開発
 
-**新しい画風、実際の作例、自分のチャンネルに応用できる制作フローを探している方は、ぜひフォローしてください。**
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
+[![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
-[Stickman Video Director を見る →](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md) · [X でチュートリアルと制作実験を見る](https://x.com/CrazyKaomei) · [Telegram で話す](https://t.me/CrazyKaomei)
+<br>
+
+<p align="center">
+  <b>あらゆるテキスト台本を、バズる多彩な画風の棒人間アニメーション動画に — 100% 無料・オープンソース。</b><br>
+  顔出し不要。月額 50 ドルのサブスクリプションも不要。何日も待たず、数分で完成。
+</p>
 
 </div>
 
-## アイデアも、画風も、あなたらしく。顔出しは不要。
+---
+
+### 🎬 注目のフラッグシップ: Stickman Video Director
+
+**⭐ GitHub で 3,000+ Stars**
+
+テキスト台本を、バズる多彩な画風の棒人間アニメーション動画に変える自律型 AI ディレクター。顔出しなしの YouTube チャンネルのために設計されています。
+
+- **台本から動画へのストーリーテリング**: テキストを絵コンテ、棒人間の動作設計、キャラクターの表情、笑いの間へと自動変換します。
+- **多彩な画風のビジュアルエンジン**: ミニマル手描き、先史時代の洞窟、コミックミームなどの画風をシームレスに切り替えられます。
+- **YouTube 自動化のために設計**: 顔出しや高額な SaaS 料金なしでストーリーチャンネルを運営する、最速かつ 100% 無料の方法です。
+
+👉 **[GitHub で Stickman Video Director を見る →](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md)** &nbsp;|&nbsp; **[X で制作チュートリアルを読む →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+
+---
+
+### 🎨 画風ギャラリー
 
 <table width="100%">
 <tr>
+<th width="50%" align="center">ミニマル手描き</th>
+<th width="50%" align="center">先史時代の洞窟人</th>
+</tr>
+<tr>
 <td width="50%" align="center">
-<strong>ミニマル手描き風</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="表情豊かなキャラクターとモーショングラフィックスを使った、ミニマルな手描き風棒人間動画" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="ミニマル手描き"></a><br>
+<em>すっきりシャープな、Casually Explained の雰囲気。</em>
 </td>
 <td width="50%" align="center">
-<strong>先史時代の洞窟風</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="豊かな動きで物語を伝える、先史時代の洞窟風棒人間アニメーション" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" width="400" alt="先史時代の洞窟人"></a><br>
+<em>バズる物語、古代の伝承、そして皮肉。</em>
 </td>
 </tr>
 </table>
 
-[Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md) で使える画風の一例です。プレビューをクリックすると、制作フローと作例を確認できます。
+---
 
-### まずはこちら：Stickman Video Director
+### 🔮 次に何が登場？
 
-**テーマ、記事、リンク、台本**から、画風のそろった棒人間動画を制作。自分に合ったつくり方を選べます。
+新しい動画自動化 Skills を積極的に設計し、オープンソースで公開しています。左上の **`Follow`** を押して最新情報をチェック：
 
-- **A · ディレクターモード** — 物語を組み立て、シーンごとの詳しい動画生成プロンプトを作成。クリップの生成、各カットの確認、編集は自分で進めます。
-- **B · 全自動モード** — イラスト、ナレーション、字幕、効果音、さりげないアニメーションから編集までを自動化し、完成した動画ファイルに仕上げます。
-
-Skill は無料・オープンソースです。全自動モードには画像・音声生成サービスとローカルの動画合成環境が必要です。連携サービスの利用料は別途かかる場合があります。
-
-**[画風・作例・はじめ方を見る →](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#quick-start)**
-
-## フォローすると、こんなものが見つかります
-
-- **チャンネルの個性になる画風。** 新しいビジュアル表現と、動画全体の画風をそろえる方法を探れます。
-- **実際に見て選べる作例。** 完成イメージを確認してから制作フローを選び、自分のテーマに応用できます。
-- **繰り返し使える制作フロー。** 台本、画像、ナレーション、編集のためのオープンソース Skills で、ツールをつなぎ合わせる手間を減らせます。
+- [x] **Stickman Video：ディレクターモード** *(公開中 · 6 種類の画風が利用可能)*
+- [ ] **Stickman Video：AutoPilot モード** *(次回リリース · 6+ 種類の新しい画風)*
+- [ ] **レトロピクセルアート・ストーリーテラー** *(開発中 · 16-bit のノスタルジックな美学)*
+- [ ] **ワンクリック顔出しなし Shorts 公開ツール** *(実験中 · YouTube と TikTok 向けに自動書き出し)*
 
 ---
 
-### 棒人間動画がきっかけなら、次の一本も一緒に。
+### 🌐 つながりましょう
 
-このプロフィールの **Follow** ボタンから、新しい画風、作例、オープンソースの動画制作フローをチェックしてください。
-
-チュートリアルや制作実験は [**X：@CrazyKaomei**](https://x.com/CrazyKaomei) でも紹介しています。ワークフローの相談や作品の共有は、[**Telegram でお気軽にどうぞ**](https://t.me/CrazyKaomei)。
+- 🐦 [**X**](https://x.com/CrazyKaomei): 毎日の AI チュートリアル、動画自動化のヒント、無駄のない実践的なワークフロー。
+- 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): 制作の全記録、ステップごとのチュートリアルと事例紹介。
+- 💬 [**お問い合わせ**](https://t.me/CrazyKaomei): 気軽にご挨拶、新しい画風のリクエスト、コラボのご相談をどうぞ。

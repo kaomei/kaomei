@@ -2,56 +2,75 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [**🇰🇷 한국어**](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# CrazyKaomei 🩵
+<br>
 
-**얼굴 공개 없이 만드는 YouTube 영상, 오픈소스 AI 워크플로로.**
+# 안녕하세요, Kaomei입니다 (메이라고 불러주세요) 🩵
 
-**쇼츠, 지식·정보 영상, 긴 스토리 영상**을 위한 자동화 워크플로를 만듭니다. 카메라 앞에 서지 않아도 아이디어를 나만의 영상으로 완성할 수 있습니다.
+### 얼굴을 드러내지 않는 크리에이터를 위한 오픈소스 AI 영상 Skills 개발
 
-**새로운 그림체, 실제 제작 사례, 내 채널에 응용할 수 있는 워크플로가 필요하다면 팔로우해 주세요.**
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
+[![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
-[Stickman Video Director 살펴보기 →](https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md) · [X에서 튜토리얼과 제작 실험 보기](https://x.com/CrazyKaomei) · [Telegram으로 연락하기](https://t.me/CrazyKaomei)
+<br>
+
+<p align="center">
+  <b>어떤 텍스트 대본이든 다양한 화풍의 바이럴 스틱맨 애니메이션 영상으로 — 100% 무료 & 오픈소스.</b><br>
+  카메라 없이, 월 50달러 구독 없이, 며칠이 아닌 몇 분 만에 완성.
+</p>
 
 </div>
 
-## 아이디어도, 스타일도 나답게. 얼굴 공개는 필요 없어요.
+---
+
+### 🎬 대표 플래그십: Stickman Video Director
+
+**⭐ GitHub 스타 3,000+**
+
+일반 텍스트 대본을 다양한 화풍의 바이럴 스틱맨 애니메이션 영상으로 바꾸는 자율 AI 감독 — 얼굴을 드러내지 않는 YouTube 채널을 위해 특별히 설계되었습니다.
+
+- **대본에서 영상으로 이어지는 스토리텔링**: 일반 텍스트를 스토리보드, 스틱맨 동작 구성, 캐릭터 표정, 코미디 타이밍으로 자동 변환합니다.
+- **다양한 화풍의 비주얼 엔진**: 미니멀 손그림, 선사시대 동굴, 코믹 밈 등 다양한 화풍을 매끄럽게 전환합니다.
+- **YouTube 자동화를 위한 설계**: 얼굴 공개나 높은 SaaS 비용 없이 스토리텔링 채널을 운영하는 가장 빠른 100% 무료 방법입니다.
+
+👉 **[GitHub에서 Stickman Video Director 살펴보기 →](https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md)** &nbsp;|&nbsp; **[X에서 제작 튜토리얼 읽기 →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+
+---
+
+### 🎨 비주얼 스타일 갤러리
 
 <table width="100%">
 <tr>
+<th width="50%" align="center">미니멀 손그림</th>
+<th width="50%" align="center">선사시대 동굴인</th>
+</tr>
+<tr>
 <td width="50%" align="center">
-<strong>미니멀 손그림 스타일</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="풍부한 표정과 모션 그래픽이 어우러진 미니멀 손그림 스틱맨 영상" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="미니멀 손그림"></a><br>
+<em>깔끔하고 선명한 Casually Explained 감성.</em>
 </td>
 <td width="50%" align="center">
-<strong>선사시대 동굴 스타일</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="다채로운 동작으로 이야기를 전하는 선사시대 동굴 스타일 스틱맨 애니메이션" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" width="400" alt="선사시대 동굴인"></a><br>
+<em>바이럴 스토리텔링, 고대 설화와 아이러니.</em>
 </td>
 </tr>
 </table>
 
-[Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md)에서 선택할 수 있는 그림체 중 두 가지입니다. 미리보기를 클릭하면 제작 과정과 사례를 볼 수 있습니다.
+---
 
-### 여기서 시작하세요: Stickman Video Director
+### 🔮 다음에는 무엇이 나올까요?
 
-**주제, 기사, 링크, 대본**을 일관된 그림체의 스틱맨 영상으로 만듭니다. 원하는 제작 방식을 선택하세요.
+새로운 영상 자동화 Skills를 꾸준히 설계하고 오픈소스로 공개합니다. 왼쪽 위의 **`Follow`**를 눌러 업데이트를 받아보세요:
 
-- **A · 디렉터 모드** — 이야기를 구성하고 장면별 상세 영상 프롬프트를 만듭니다. 클립을 생성하고 각 장면을 확인한 뒤 직접 편집합니다.
-- **B · 자동 제작 모드** — 일러스트, 내레이션, 자막, 효과음, 가벼운 애니메이션부터 편집까지 자동화해 완성된 영상 파일로 제공합니다.
-
-Skill은 무료 오픈소스입니다. 자동 제작 모드에는 이미지·음성 생성 서비스와 로컬 영상 합성 환경이 필요하며, 연결된 서비스 이용료는 별도로 발생할 수 있습니다.
-
-**[그림체, 제작 사례, 시작 가이드 보기 →](https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#quick-start)**
-
-## 팔로우하면 이런 내용을 만나볼 수 있어요
-
-- **채널의 개성이 되는 그림체.** 새로운 시각적 표현과 영상 전체의 스타일을 일관되게 유지하는 방법을 살펴봅니다.
-- **직접 보고 고를 수 있는 제작 사례.** 결과물을 확인한 뒤 워크플로를 선택하고, 내 주제에 맞게 응용할 수 있습니다.
-- **다시 쓸 수 있는 제작 워크플로.** 대본, 이미지, 내레이션, 편집용 오픈소스 Skills로 도구를 하나씩 연결하는 수고를 줄입니다.
+- [x] **Stickman Video: 디렉터 모드** *(출시 완료 · 6가지 화풍 사용 가능)*
+- [ ] **Stickman Video: AutoPilot 모드** *(다음 출시 · 6+가지 새로운 화풍)*
+- [ ] **레트로 픽셀 아트 스토리텔러** *(개발 중 · 16-bit 감성의 향수 어린 미학)*
+- [ ] **원클릭 얼굴 비공개 Shorts 게시 도구** *(실험 중 · YouTube 및 TikTok용 자동 내보내기)*
 
 ---
 
-### 스틱맨을 보고 오셨나요? 다음 영상도 함께 만들어 가요.
+### 🌐 함께 소통해요
 
-프로필의 **Follow** 버튼을 눌러 새로운 그림체, 제작 사례, 오픈소스 영상 워크플로를 확인해 보세요.
-
-튜토리얼과 제작 실험은 [**X: @CrazyKaomei**](https://x.com/CrazyKaomei)에서도 공유합니다. 워크플로에 관한 아이디어나 만든 작품이 있다면 [**Telegram으로 편하게 연락해 주세요**](https://t.me/CrazyKaomei).
+- 🐦 [**X**](https://x.com/CrazyKaomei): 매일 전하는 AI 튜토리얼, 영상 자동화 팁, 군더더기 없는 실용 워크플로.
+- 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): 전체 제작 기록, 단계별 튜토리얼과 사례 연구.
+- 💬 [**연락**](https://t.me/CrazyKaomei): 인사를 나누고, 새로운 화풍을 요청하거나 협업을 논의해요.

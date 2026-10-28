@@ -2,56 +2,75 @@
 
 [🇺🇸 EN](README.en.md) · [**🇨🇳 简中**](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# CrazyKaomei 🩵
+<br>
 
-**专注不露脸、自动化的 YouTube 视频工作流。**
+# 嗨，我是烤妹儿 🩵
 
-从 **Shorts 短视频、知识讲解到长篇故事**，把想法变成视频，不用出镜，也能形成自己的视觉风格。
+### 为不露脸创作者打造开源 AI 视频 Skills
 
-**点击主页的 Follow，持续获取新画风、实战样片和可复用的创作流程。**
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
+[![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
-[从火柴人视频开始 →](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md) · [在 X 看教程与创作实验](https://x.com/CrazyKaomei) · [通过 Telegram 联系我](https://t.me/CrazyKaomei)
+<br>
+
+<p align="center">
+  <b>将任何文字脚本变成爆款、多画风的火柴人动画视频 — 100% 免费开源。</b><br>
+  无需出镜，无需每月 50 美元的订阅，几分钟即可完成，不用等上几天。
+</p>
 
 </div>
 
-## 有想法，有自己的画风，不必出镜。
+---
+
+### 🎬 旗舰项目: Stickman Video Director
+
+**⭐ GitHub 3,000+ Stars**
+
+将纯文字脚本变成爆款、多画风火柴人动画视频的自主 AI 导演——专为不露脸 YouTube 频道打造。
+
+- **脚本到视频的叙事**: 自动将纯文字转化为分镜、火柴人动作编排、人物表情和喜剧节奏。
+- **多画风视觉引擎**: 在多种画风（极简手绘、史前洞穴、漫画表情包）之间无缝切换。
+- **为 YouTube 自动化打造**: 无需出镜或支付高昂的 SaaS 费用，以最快、100% 免费的方式运营故事频道。
+
+👉 **[在 GitHub 探索 Stickman Video Director →](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md)** &nbsp;|&nbsp; **[在 X 查看完整教程 →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+
+---
+
+### 🎨 画风展示
 
 <table width="100%">
 <tr>
+<th width="50%" align="center">极简手绘</th>
+<th width="50%" align="center">史前穴居人</th>
+</tr>
+<tr>
 <td width="50%" align="center">
-<strong>极简手绘风</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" alt="极简手绘火柴人视频：夸张表情与丰富微动画" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="极简手绘"></a><br>
+<em>干净、利落，Casually Explained 的风格。</em>
 </td>
 <td width="50%" align="center">
-<strong>史前洞穴风</strong><br>
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" alt="史前洞穴火柴人动画：丰富动作与故事表达" width="95%"></a>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#a3"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@2697fac5e0466f44098148a52c9648697521b3d6/assets/readme/previews/style-3-demo.gif" width="400" alt="史前穴居人"></a><br>
+<em>爆款故事、远古传说与讽刺幽默。</em>
 </td>
 </tr>
 </table>
 
-以上是[火柴人视频工作流](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md)中的两种画风。点击预览，查看对应流程与案例。
+---
 
-### 从这里开始：火柴人视频工作流
+### 🔮 接下来发布什么？
 
-给一个**话题、一篇文章、一个链接或故事脚本**，制作画风统一的火柴人视频。按你的创作方式选择：
+我在持续设计并开源新的视频自动化 Skills。点击左上角的 **`Follow`**，及时获取更新：
 
-- **A · 导演模式**：规划故事，生成详细的分镜提示词；你逐段生成视频、检查镜头，再手动剪辑整合。
-- **B · 全自动模式**：自动制作画面、旁白、字幕、音效与微动画，并合成为完整视频文件。
-
-Skill 免费开源。全自动模式需要配置生图、配音服务和本地视频合成环境；所连接的服务可能单独收费。
-
-**[查看全部画风、样片与上手指南 →](https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#quick-start)**
-
-## 关注后，你能在这里找到什么？
-
-- **让频道更有辨识度的画风。** 探索新的视觉风格，以及让整部视频画风统一的方法。
-- **能直接看到效果的案例。** 先看作品，再选择适合自己的流程，改编成你想做的主题。
-- **可复用的视频制作流程。** 从文案、画面到配音和剪辑，持续开源实用 Skills，减少反复拼工具的工作。
+- [x] **Stickman Video：导演模式** *(已上线 · 6 种画风已就绪)*
+- [ ] **Stickman Video：AutoPilot 全自动模式** *(即将发布 · 6+ 种新画风)*
+- [ ] **复古像素风故事创作工具** *(研发中 · 16-bit 怀旧美学)*
+- [ ] **一键不露脸 Shorts 发布工具** *(实验中 · 自动导出至 YouTube 和 TikTok)*
 
 ---
 
-### 因为火柴人来到这里？下一部视频，也一起探索。
+### 🌐 保持联系
 
-点击主页的 **Follow** 按钮，持续获取新画风、样片与开源视频工作流。
-
-教程与创作实验会分享在 [**X：@CrazyKaomei**](https://x.com/CrazyKaomei)。想交流工作流，或分享你的作品？欢迎[**通过 Telegram 联系我**](https://t.me/CrazyKaomei)。
+- 🐦 [**X**](https://x.com/CrazyKaomei): 每日 AI 教程、视频自动化技巧，以及不说废话的实用工作流。
+- 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): 完整制作日志、分步教程与案例分析。
+- 💬 [**联系**](https://t.me/CrazyKaomei): 打个招呼、申请新增画风，或洽谈合作。
