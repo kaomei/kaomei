@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>Transformez n’importe quel script texte en vidéos animées de bonshommes bâtons virales et multistyles — 100 % gratuites et open source.</b><br>
+  <b>Transformez n’importe quel script texte en vidéos animées virales et multistyles — 100 % gratuites et open source.</b><br>
   Sans caméra, sans abonnement à 50 $/mois, et prêt en quelques minutes, pas en plusieurs jours.
 </p>
 

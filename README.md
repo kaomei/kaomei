@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>Turn any text script into viral, multi-style animated stickman videos — 100% Free & Open Source.</b><br>
+  <b>Turn any text script into viral, multi-style animated videos — 100% Free & Open Source.</b><br>
   No camera, no $50/mo subscriptions, and ready in minutes, not days.
 </p>
 

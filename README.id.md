@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>Ubah skrip teks apa pun menjadi video animasi stickman viral dengan beragam gaya — 100% Gratis & Open Source.</b><br>
+  <b>Ubah skrip teks apa pun menjadi video animasi viral dengan beragam gaya — 100% Gratis & Open Source.</b><br>
   Tanpa kamera, tanpa langganan US$50/bulan, dan siap dalam hitungan menit, bukan hari.
 </p>
 

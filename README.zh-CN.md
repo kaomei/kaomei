@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>将任何文字脚本变成爆款、多画风的火柴人动画视频 — 100% 免费开源。</b><br>
+  <b>将任何文字脚本变成爆款、多画风的动画视频 — 100% 免费开源。</b><br>
   无需出镜，无需每月 50 美元的订阅，几分钟即可完成，不用等上几天。
 </p>
 

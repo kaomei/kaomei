@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
 
 <p align="center">
-  <b>Transforme qualquer roteiro de texto em vídeos animados de bonecos-palito virais e com vários estilos — 100% grátis e de código aberto.</b><br>
+  <b>Transforme qualquer roteiro de texto em vídeos animados virais e com vários estilos — 100% grátis e de código aberto.</b><br>
   Sem câmera, sem assinaturas de US$ 50/mês, e pronto em minutos, não em dias.
 </p>
 
