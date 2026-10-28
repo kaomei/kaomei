@@ -2,17 +2,13 @@
 
 [**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-<br>
-
 # Hey, I'm Kaomei (you can call me Mei) 🩵
 
-### Building Open-Source AI Video Skills for Faceless Creators
+<p><b>Building Open-Source AI Video Skills for Faceless Creators</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
-
-<br>
 
 <p align="center">
   <b>Turn any text script into viral, multi-style animated stickman videos — 100% Free & Open Source.</b><br>

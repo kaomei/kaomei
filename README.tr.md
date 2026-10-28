@@ -2,17 +2,13 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [**🇹🇷 TR**](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-<br>
-
 # Selam, ben Kaomei (bana Mei diyebilirsiniz) 🩵
 
-### Yüzünü Göstermeyen İçerik Üreticileri İçin Açık Kaynaklı AI Video Skill’leri Geliştiriyorum
+<p><b>Yüzünü Göstermeyen İçerik Üreticileri İçin Açık Kaynaklı AI Video Skill’leri Geliştiriyorum</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
-
-<br>
 
 <p align="center">
   <b>Herhangi bir metin senaryosunu viral, çok stilli çöp adam animasyon videolarına dönüştürün — %100 Ücretsiz ve Açık Kaynak.</b><br>

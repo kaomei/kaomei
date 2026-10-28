@@ -2,17 +2,13 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [**🇰🇷 한국어**](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-<br>
-
 # 안녕하세요, Kaomei입니다 (메이라고 불러주세요) 🩵
 
-### 얼굴을 드러내지 않는 크리에이터를 위한 오픈소스 AI 영상 Skills 개발
+<p><b>얼굴을 드러내지 않는 크리에이터를 위한 오픈소스 AI 영상 Skills 개발</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
-
-<br>
 
 <p align="center">
   <b>어떤 텍스트 대본이든 다양한 화풍의 바이럴 스틱맨 애니메이션 영상으로 — 100% 무료 & 오픈소스.</b><br>
