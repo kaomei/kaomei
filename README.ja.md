@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>あらゆるテキスト台本を、バズる多彩な画風のアニメーション動画に — 100% 無料・オープンソース。</b><br>
@@ -69,4 +69,4 @@
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): 毎日の AI チュートリアル、動画自動化のヒント、無駄のない実践的なワークフロー。
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): 制作の全記録、ステップごとのチュートリアルと事例紹介。
-- 💬 [**お問い合わせ**](https://t.me/CrazyKaomei): 気軽にご挨拶、新しい画風のリクエスト、コラボのご相談をどうぞ。
+- 💬 [**お問い合わせ**](https://telegram.me/CrazyKaomei): 気軽にご挨拶、新しい画風のリクエスト、コラボのご相談をどうぞ。

@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>Herhangi bir metin senaryosunu viral, çok stilli animasyon videolarına dönüştürün — %100 Ücretsiz ve Açık Kaynak.</b><br>
@@ -69,4 +69,4 @@ Aktif olarak yeni video otomasyon Skill’leri tasarlıyor ve açık kaynak olar
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): Günlük AI eğitimleri, video otomasyon ipuçları ve laf kalabalığı olmayan iş akışları.
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): Eksiksiz yapım günlükleri, adım adım eğitimler ve vaka çalışmaları.
-- 💬 [**İletişim**](https://t.me/CrazyKaomei): Merhaba deyin, yeni görsel stiller talep edin veya iş birliği için iletişime geçin.
+- 💬 [**İletişim**](https://telegram.me/CrazyKaomei): Merhaba deyin, yeni görsel stiller talep edin veya iş birliği için iletişime geçin.

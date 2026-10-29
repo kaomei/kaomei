@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>将任何文字脚本变成爆款、多画风的动画视频 — 100% 免费开源。</b><br>
@@ -69,4 +69,4 @@
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): 每日 AI 教程、视频自动化技巧，以及不说废话的实用工作流。
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): 完整制作日志、分步教程与案例分析。
-- 💬 [**联系**](https://t.me/CrazyKaomei): 打个招呼、申请新增画风，或洽谈合作。
+- 💬 [**联系**](https://telegram.me/CrazyKaomei): 打个招呼、申请新增画风，或洽谈合作。
