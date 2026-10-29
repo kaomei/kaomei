@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>어떤 텍스트 대본이든 다양한 화풍의 바이럴 애니메이션 영상으로 — 100% 무료 & 오픈소스.</b><br>
@@ -69,4 +69,4 @@
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): 매일 전하는 AI 튜토리얼, 영상 자동화 팁, 군더더기 없는 실용 워크플로.
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): 전체 제작 기록, 단계별 튜토리얼과 사례 연구.
-- 💬 [**연락**](https://t.me/CrazyKaomei): 인사를 나누고, 새로운 화풍을 요청하거나 협업을 논의해요.
+- 💬 [**연락**](https://telegram.me/CrazyKaomei): 인사를 나누고, 새로운 화풍을 요청하거나 협업을 논의해요.

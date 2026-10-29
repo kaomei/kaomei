@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>Ubah skrip teks apa pun menjadi video animasi viral dengan beragam gaya — 100% Gratis & Open Source.</b><br>
@@ -69,4 +69,4 @@ Saya aktif merancang dan membuka sumber Skills otomatisasi video baru. Klik **`F
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): Tutorial AI harian, tips otomatisasi video, dan workflow tanpa basa-basi.
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): Catatan lengkap proses pembuatan, tutorial langkah demi langkah, dan studi kasus.
-- 💬 [**Kontak**](https://t.me/CrazyKaomei): Sapa saya, minta gaya visual baru, atau diskusikan kolaborasi.
+- 💬 [**Kontak**](https://telegram.me/CrazyKaomei): Sapa saya, minta gaya visual baru, atau diskusikan kolaborasi.

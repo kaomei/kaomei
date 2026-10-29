@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>Turn any text script into viral, multi-style animated videos — 100% Free & Open Source.</b><br>
@@ -69,4 +69,4 @@ I actively design and open-source new video automation skills. Hit **`Follow`** 
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): Daily AI tutorials, video automation tips, and zero-bullshit workflows.
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): Full-length build logs, step-by-step tutorials & case studies.
-- 💬 [**Contact**](https://t.me/CrazyKaomei): Say hello, request new visual styles, or discuss collaborations.
+- 💬 [**Contact**](https://telegram.me/CrazyKaomei): Say hello, request new visual styles, or discuss collaborations.

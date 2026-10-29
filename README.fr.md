@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyKaomei)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
 <p align="center">
   <b>Transformez n’importe quel script texte en vidéos animées virales et multistyles — 100 % gratuites et open source.</b><br>
@@ -69,4 +69,4 @@ Je conçois et publie régulièrement de nouveaux Skills d’automatisation vid�
 
 - 🐦 [**X**](https://x.com/CrazyKaomei): Tutoriels IA quotidiens, conseils d’automatisation vidéo et workflows sans blabla.
 - 📺 [**YouTube**](https://www.youtube.com/@CrazyKaomei): Journaux de création complets, tutoriels pas à pas et études de cas.
-- 💬 [**Contact**](https://t.me/CrazyKaomei): Dites bonjour, demandez de nouveaux styles visuels ou discutons d’une collaboration.
+- 💬 [**Contact**](https://telegram.me/CrazyKaomei): Dites bonjour, demandez de nouveaux styles visuels ou discutons d’une collaboration.
