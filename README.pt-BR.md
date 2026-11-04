@@ -21,7 +21,7 @@
 
 ### 🎬 Projeto principal em destaque: Stickman Video Director
 
-**⭐ Mais de 3.000 estrelas no GitHub**
+**⭐ Mais de 5.000 estrelas no GitHub**
 
 O diretor autônomo de IA que transforma roteiros de texto simples em vídeos animados de bonecos-palito virais e com vários estilos — projetado especialmente para canais do YouTube sem aparecer.
 

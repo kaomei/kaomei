@@ -21,7 +21,7 @@
 
 ### 🎬 Featured Flagship: Stickman Video Director
 
-**⭐ 3,000+ Stars on GitHub**
+**⭐ 5,000+ Stars on GitHub**
 
 The autonomous AI director that turns plain text scripts into viral, multi-style animated stickman videos—specifically engineered for Faceless YouTube Channels.
 
