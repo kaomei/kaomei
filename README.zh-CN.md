@@ -21,7 +21,7 @@
 
 ### 🎬 旗舰项目: Stickman Video Director
 
-**⭐ GitHub 3,000+ Stars**
+**⭐ GitHub 5,000+ Stars**
 
 将纯文字脚本变成爆款、多画风火柴人动画视频的自主 AI 导演——专为不露脸 YouTube 频道打造。
 

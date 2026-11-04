@@ -21,7 +21,7 @@
 
 ### 🎬 Öne Çıkan Amiral Gemisi: Stickman Video Director
 
-**⭐ GitHub’da 3.000+ Yıldız**
+**⭐ GitHub’da 5.000+ Yıldız**
 
 Düz metin senaryolarını viral, çok stilli çöp adam animasyon videolarına dönüştüren otonom AI yönetmeni — özellikle yüz göstermeyen YouTube kanalları için tasarlandı.
 

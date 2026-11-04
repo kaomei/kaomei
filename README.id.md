@@ -21,7 +21,7 @@
 
 ### 🎬 Proyek Unggulan: Stickman Video Director
 
-**⭐ 3.000+ Star di GitHub**
+**⭐ 5.000+ Star di GitHub**
 
 Sutradara AI otonom yang mengubah skrip teks biasa menjadi video animasi stickman viral dengan beragam gaya — dirancang khusus untuk channel YouTube tanpa wajah.
 

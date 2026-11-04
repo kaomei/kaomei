@@ -21,7 +21,7 @@
 
 ### 🎬 Projet phare à découvrir: Stickman Video Director
 
-**⭐ Plus de 3 000 étoiles sur GitHub**
+**⭐ Plus de 5 000 étoiles sur GitHub**
 
 Le réalisateur IA autonome qui transforme de simples scripts texte en vidéos animées de bonshommes bâtons virales et multistyles — spécialement conçu pour les chaînes YouTube sans visage.
 
