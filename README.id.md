@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [**🇮🇩 ID**](README.id.md)
 
-# Halo, saya Kaomei (kamu bisa panggil aku Mei) 🩵
+# Halo, saya Crazy Mei 🩵
 
 <p><b>Membangun Skills Video AI Open Source untuk Kreator Tanpa Wajah</b></p>
 

@@ -2,7 +2,7 @@
 
 [🇺🇸 EN](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [**🇰🇷 한국어**](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# 안녕하세요, Kaomei입니다 (메이라고 불러주세요) 🩵
+# 안녕하세요, Crazy Mei입니다 🩵
 
 <p><b>얼굴을 드러내지 않는 크리에이터를 위한 오픈소스 AI 영상 Skills 개발</b></p>
 
