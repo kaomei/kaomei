@@ -2,7 +2,7 @@
 
 [**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
 
-# Hey, I'm Kaomei (you can call me Mei) 🩵
+# Hey, I'm Crazy Mei 🩵
 
 <p><b>Building Open-Source AI Video Skills for Faceless Creators</b></p>
 
