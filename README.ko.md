@@ -34,7 +34,7 @@ AI 업계에는 닫힌 생태계를 만들고, 프롬프트를 유료 장벽 뒤
 일반 텍스트 대본을 다양한 화풍의 바이럴 스틱맨 애니메이션 영상으로 바꾸는 자율 AI 감독 — 얼굴을 드러내지 않는 YouTube 채널을 위해 특별히 설계되었습니다.
 
 - **대본에서 영상으로 이어지는 스토리텔링**: 일반 텍스트를 스토리보드, 스틱맨 동작 구성, 캐릭터 표정, 코미디 타이밍으로 자동 변환합니다.
-- **다양한 화풍의 비주얼 엔진**: 미니멀 손그림, 선사시대 동굴, 코믹 밈 등 다양한 화풍을 매끄럽게 전환합니다.
+- **다양한 화풍의 비주얼 엔진**: 미니멀 라인 아트, 선사시대 동굴, 코믹 밈 등 다양한 화풍을 매끄럽게 전환합니다.
 - **YouTube 자동화를 위한 설계**: 얼굴 공개나 높은 SaaS 비용 없이 스토리텔링 채널을 운영하는 가장 빠른 100% 무료 방법입니다.
 
 👉 **[X에서 제작 튜토리얼 읽기 →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Telegram 커뮤니티 참여 →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ AI 업계에는 닫힌 생태계를 만들고, 프롬프트를 유료 장벽 뒤
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">미니멀 손그림</th>
+<th width="50%" align="center">미니멀 라인 아트</th>
 <th width="50%" align="center">선사시대 동굴인</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="미니멀 손그림"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ko.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="미니멀 라인 아트"></a><br>
 <em>깔끔하고 선명한 Casually Explained 감성.</em>
 </td>
 <td width="50%" align="center">

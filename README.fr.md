@@ -34,7 +34,7 @@ Merci à toutes celles et ceux qui, aux quatre coins du monde, ajoutent une éto
 Le réalisateur IA autonome qui transforme de simples scripts texte en vidéos animées de bonshommes bâtons virales et multistyles — spécialement conçu pour les chaînes YouTube sans visage.
 
 - **Du script à la narration vidéo**: Transforme automatiquement un texte simple en storyboards, chorégraphies de bonshommes bâtons, expressions des personnages et rythme comique.
-- **Moteur visuel multistyle**: Passez sans transition entre plusieurs styles (dessin minimaliste à la main, grotte préhistorique, mèmes en BD).
+- **Moteur visuel multistyle**: Passez sans transition entre plusieurs styles (trait minimaliste, grotte préhistorique, mèmes en BD).
 - **Conçu pour l’automatisation YouTube**: Le moyen le plus rapide et 100 % gratuit de gérer une chaîne de récits sans montrer votre visage ni payer des frais SaaS élevés.
 
 👉 **[Lire le tutoriel sur X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Rejoindre la communauté Telegram →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ Le réalisateur IA autonome qui transforme de simples scripts texte en vidéos a
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">Dessin minimaliste à la main</th>
+<th width="50%" align="center">Trait minimaliste</th>
 <th width="50%" align="center">Homme des cavernes préhistorique</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Dessin minimaliste à la main"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.fr.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Trait minimaliste"></a><br>
 <em>Épuré, net, dans l’esprit de Casually Explained.</em>
 </td>
 <td width="50%" align="center">

@@ -33,7 +33,7 @@
 将纯文字脚本变成爆款、多画风火柴人动画视频的自主 AI 导演——专为不露脸 YouTube 频道打造。
 
 - **脚本到视频的叙事**: 自动将纯文字转化为分镜、火柴人动作编排、人物表情和喜剧节奏。
-- **多画风视觉引擎**: 在多种画风（极简手绘、史前洞穴、漫画表情包）之间无缝切换。
+- **多画风视觉引擎**: 在多种画风（极简线稿风、史前洞穴、漫画表情包）之间无缝切换。
 - **为 YouTube 自动化打造**: 无需出镜或支付高昂的 SaaS 费用，以最快、100% 免费的方式运营故事频道。
 
 👉 **[在 X 查看完整教程 →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[加入交流群 →](https://telegram.me/stickmanskill)**
@@ -44,12 +44,12 @@
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">极简手绘</th>
+<th width="50%" align="center">极简线稿风</th>
 <th width="50%" align="center">史前穴居人</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="极简手绘"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.zh-CN.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="极简线稿风"></a><br>
 <em>干净、利落，Casually Explained 的风格。</em>
 </td>
 <td width="50%" align="center">
