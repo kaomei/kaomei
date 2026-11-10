@@ -4,24 +4,32 @@
 
 # Hey, I'm Crazy Mei 🩵
 
-<p><b>Building Open-Source AI Video Skills for Faceless Creators</b></p>
+<p><b>Building Open-Source AI Video Tools &amp; Pipelines for Faceless Creators</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
-<p align="center">
-  <b>Turn any text script into viral, multi-style animated videos — 100% Free & Open Source.</b><br>
-  No camera, no $50/mo subscriptions, and ready in minutes, not days.
-</p>
-
 </div>
+
+Too many people in AI are busy building walled gardens, locking prompts behind paywalls, and selling courses on "secrets" that should be common knowledge.
+
+I prefer a different path:
+
+**Any workflow that unlocks human creativity should belong to everyone.**\
+Zero paywalls. Zero gatekeeping. 100% open source.
+
+I build autonomous AI video directors and creative tools so that anyone—regardless of budget or drawing skills—can turn their wildest ideas into viral animations.
+
+Thanks to everyone starring, testing, and co-building these tools with me across the globe. We're just getting started!
+
+🩵 *So, just vibing with the CYCLE*
 
 ---
 
-### 🎬 Featured Flagship: Stickman Video Director
+### 🎬 Featured Flagship: [Stickman Video Director](https://github.com/kaomei/stickman-video-director)
 
-**⭐ 5,000+ Stars on GitHub**
+**⭐ 6,000+ Stars on GitHub**
 
 The autonomous AI director that turns plain text scripts into viral, multi-style animated stickman videos—specifically engineered for Faceless YouTube Channels.
 
@@ -29,7 +37,7 @@ The autonomous AI director that turns plain text scripts into viral, multi-style
 - **Multi-Style Visual Engine**: Switch seamlessly across diverse art styles (Minimal Hand-Drawn, Prehistoric Cave, Comic Meme).
 - **Built for YouTube Automation**: The fastest, 100% free way to run a storytelling channel without showing your face or paying high SaaS fees.
 
-👉 **[Explore Stickman Video Director on GitHub →](https://github.com/kaomei/stickman-video-director)** &nbsp;|&nbsp; **[Read the tutorial on X →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+👉 **[Read the tutorial on X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Join the Telegram community →](https://telegram.me/stickmanskill)**
 
 ---
 
@@ -59,7 +67,7 @@ The autonomous AI director that turns plain text scripts into viral, multi-style
 I actively design and open-source new video automation skills. Hit **`Follow`** in the top-left to stay updated:
 
 - [x] **Stickman Video: Director Mode** *(Live · 6 visual styles ready)*
-- [ ] **Stickman Video: AutoPilot Mode** *(Next Drop · 6+ new styles)*
+- [x] **Stickman Video: AutoPilot Mode** *(Live · 8 visual styles ready)*
 - [ ] **Retro Pixel Art Storyteller** *(In the lab · 16-bit nostalgic aesthetic)*
 - [ ] **1-Click Faceless Shorts Publisher** *(Experimental · auto-export to YouTube & TikTok)*
 

@@ -4,24 +4,32 @@
 
 # こんにちは、Crazy Meiです 🩵
 
-<p><b>顔出しなしのクリエイター向けに、オープンソースの AI 動画 Skills を開発</b></p>
+<p><b>顔出しせずに活動するクリエイターのための、オープンソースAI動画ツールと制作パイプライン</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
-<p align="center">
-  <b>あらゆるテキスト台本を、バズる多彩な画風のアニメーション動画に — 100% 無料・オープンソース。</b><br>
-  顔出し不要。月額 50 ドルのサブスクリプションも不要。何日も待たず、数分で完成。
-</p>
-
 </div>
+
+AI の世界では、閉じたエコシステムを築き、プロンプトを有料で囲い込み、誰もが知っていていいはずの「秘密」を講座にして売ることに、あまりにも多くの人が力を注いでいます。
+
+私は、違う道を選びたい。
+
+**人の創造力を解き放つワークフローは、みんなのものであるべきです。**\
+有料の壁なし。知識の囲い込みなし。100% オープンソース。
+
+予算や絵のスキルに関係なく、誰もが自由な発想をバズるアニメーションに変えられるように。そんな思いで、自律型 AI 動画ディレクターやクリエイティブツールを開発しています。
+
+世界中からスターを付け、試し、一緒にツールを育ててくれるみなさん、本当にありがとう。まだ始まったばかりです！
+
+🩵 *So, just vibing with the CYCLE*
 
 ---
 
-### 🎬 注目のフラッグシップ: Stickman Video Director
+### 🎬 注目のフラッグシップ: [Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md)
 
-**⭐ GitHub で 5,000+ Stars**
+**⭐ GitHub で 6,000+ Stars**
 
 テキスト台本を、バズる多彩な画風の棒人間アニメーション動画に変える自律型 AI ディレクター。顔出しなしの YouTube チャンネルのために設計されています。
 
@@ -29,7 +37,7 @@
 - **多彩な画風のビジュアルエンジン**: ミニマル手描き、先史時代の洞窟、コミックミームなどの画風をシームレスに切り替えられます。
 - **YouTube 自動化のために設計**: 顔出しや高額な SaaS 料金なしでストーリーチャンネルを運営する、最速かつ 100% 無料の方法です。
 
-👉 **[GitHub で Stickman Video Director を見る →](https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md)** &nbsp;|&nbsp; **[X で制作チュートリアルを読む →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+👉 **[X で制作チュートリアルを読む →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Telegramコミュニティに参加 →](https://telegram.me/stickmanskill)**
 
 ---
 
@@ -59,7 +67,7 @@
 新しい動画自動化 Skills を積極的に設計し、オープンソースで公開しています。左上の **`Follow`** を押して最新情報をチェック：
 
 - [x] **Stickman Video：ディレクターモード** *(公開中 · 6 種類の画風が利用可能)*
-- [ ] **Stickman Video：AutoPilot モード** *(次回リリース · 6+ 種類の新しい画風)*
+- [x] **Stickman Video：AutoPilot モード** *(公開済み · 8 種類の画風に対応)*
 - [ ] **レトロピクセルアート・ストーリーテラー** *(開発中 · 16-bit のノスタルジックな美学)*
 - [ ] **ワンクリック顔出しなし Shorts 公開ツール** *(実験中 · YouTube と TikTok 向けに自動書き出し)*
 

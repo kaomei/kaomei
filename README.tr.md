@@ -4,24 +4,32 @@
 
 # Selam, ben Crazy Mei 🩵
 
-<p><b>Yüzünü Göstermeyen İçerik Üreticileri İçin Açık Kaynaklı AI Video Skill’leri Geliştiriyorum</b></p>
+<p><b>Yüzünü Göstermeyen İçerik Üreticileri İçin Açık Kaynaklı Yapay Zekâ Video Araçları ve Üretim İş Akışları</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
-<p align="center">
-  <b>Herhangi bir metin senaryosunu viral, çok stilli animasyon videolarına dönüştürün — %100 Ücretsiz ve Açık Kaynak.</b><br>
-  Kamera yok, aylık 50 dolarlık abonelikler yok; günler değil, dakikalar içinde hazır.
-</p>
-
 </div>
+
+Yapay zekâ dünyasında çok fazla insan kapalı ekosistemler kurmakla, promptları ödeme duvarlarının arkasına kilitlemekle ve herkesin bilmesi gereken bilgileri "sır" diye kurslarda satmakla meşgul.
+
+Ben farklı bir yol seçiyorum:
+
+**İnsanın yaratıcılığını özgür bırakan her iş akışı herkesin olmalı.**\
+Ödeme duvarı yok. Bilgiyi saklamak yok. %100 açık kaynak.
+
+Bütçesi ya da çizim becerisi ne olursa olsun herkes en çılgın fikirlerini viral animasyonlara dönüştürebilsin diye otonom yapay zekâ video yönetmenleri ve yaratıcı araçlar geliştiriyorum.
+
+Dünyanın dört bir yanından yıldız veren, test eden ve bu araçları benimle birlikte geliştiren herkese teşekkürler. Daha yeni başlıyoruz!
+
+🩵 *So, just vibing with the CYCLE*
 
 ---
 
-### 🎬 Öne Çıkan Amiral Gemisi: Stickman Video Director
+### 🎬 Öne Çıkan Amiral Gemisi: [Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.tr.md)
 
-**⭐ GitHub’da 5.000+ Yıldız**
+**⭐ GitHub’da 6.000+ Yıldız**
 
 Düz metin senaryolarını viral, çok stilli çöp adam animasyon videolarına dönüştüren otonom AI yönetmeni — özellikle yüz göstermeyen YouTube kanalları için tasarlandı.
 
@@ -29,7 +37,7 @@ Düz metin senaryolarını viral, çok stilli çöp adam animasyon videolarına 
 - **Çok Stilli Görsel Motor**: Minimal el çizimi, tarih öncesi mağara ve çizgi roman mizahı gibi farklı stiller arasında sorunsuz geçiş yapın.
 - **YouTube Otomasyonu İçin Tasarlandı**: Yüzünüzü göstermeden veya yüksek SaaS ücretleri ödemeden bir hikâye kanalı yönetmenin en hızlı ve %100 ücretsiz yolu.
 
-👉 **[Stickman Video Director’ı GitHub’da Keşfedin →](https://github.com/kaomei/stickman-video-director/blob/main/README.tr.md)** &nbsp;|&nbsp; **[X’te eğitimi okuyun →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+👉 **[X’te eğitimi okuyun →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Telegram topluluğuna katılın →](https://telegram.me/stickmanskill)**
 
 ---
 
@@ -59,7 +67,7 @@ Düz metin senaryolarını viral, çok stilli çöp adam animasyon videolarına 
 Aktif olarak yeni video otomasyon Skill’leri tasarlıyor ve açık kaynak olarak paylaşıyorum. Güncel kalmak için sol üstteki **`Follow`** düğmesine tıklayın:
 
 - [x] **Stickman Video: Yönetmen Modu** *(Yayında · 6 görsel stil hazır)*
-- [ ] **Stickman Video: AutoPilot Modu** *(Sıradaki sürüm · 6+ yeni stil)*
+- [x] **Stickman Video: AutoPilot Modu** *(Yayında · 8 görsel stil kullanıma hazır)*
 - [ ] **Retro Piksel Sanatı Hikâye Anlatıcısı** *(Geliştirme aşamasında · nostaljik 16-bit estetiği)*
 - [ ] **Tek Tıkla Yüz Göstermeyen Shorts Yayınlayıcısı** *(Deneysel · YouTube ve TikTok için otomatik dışa aktarma)*
 
