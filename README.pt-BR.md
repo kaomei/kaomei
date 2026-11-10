@@ -4,24 +4,32 @@
 
 # Olá, eu sou a Crazy Mei 🩵
 
-<p><b>Criando Skills de vídeo com IA e código aberto para criadores sem aparecer</b></p>
+<p><b>Criando ferramentas e pipelines de vídeo com IA de código aberto para criadores que não aparecem em câmera</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
-<p align="center">
-  <b>Transforme qualquer roteiro de texto em vídeos animados virais e com vários estilos — 100% grátis e de código aberto.</b><br>
-  Sem câmera, sem assinaturas de US$ 50/mês, e pronto em minutos, não em dias.
-</p>
-
 </div>
+
+Tem gente demais na área de IA ocupada em construir ecossistemas fechados, esconder prompts atrás de paywalls e vender cursos sobre "segredos" que deveriam ser conhecimento de todos.
+
+Eu prefiro outro caminho:
+
+**Todo workflow que libera a criatividade humana deveria pertencer a todo mundo.**\
+Sem paywalls. Sem barreiras de acesso. 100% open source.
+
+Crio diretores autônomos de vídeo com IA e ferramentas criativas para que qualquer pessoa, independentemente do orçamento ou da habilidade de desenhar, possa transformar suas ideias mais malucas em animações virais.
+
+Obrigada a todo mundo que, de tantos lugares do mundo, deixa uma estrela, testa e ajuda a construir essas ferramentas comigo. Estamos só começando!
+
+🩵 *So, just vibing with the CYCLE*
 
 ---
 
-### 🎬 Projeto principal em destaque: Stickman Video Director
+### 🎬 Projeto principal em destaque: [Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.pt-BR.md)
 
-**⭐ Mais de 5.000 estrelas no GitHub**
+**⭐ Mais de 6.000 estrelas no GitHub**
 
 O diretor autônomo de IA que transforma roteiros de texto simples em vídeos animados de bonecos-palito virais e com vários estilos — projetado especialmente para canais do YouTube sem aparecer.
 
@@ -29,7 +37,7 @@ O diretor autônomo de IA que transforma roteiros de texto simples em vídeos an
 - **Motor visual com vários estilos**: Alterne facilmente entre estilos (desenho minimalista à mão, caverna pré-histórica, memes em quadrinhos).
 - **Feito para automação no YouTube**: A forma mais rápida e 100% gratuita de manter um canal de histórias sem mostrar o rosto nem pagar altas taxas de SaaS.
 
-👉 **[Explore o Stickman Video Director no GitHub →](https://github.com/kaomei/stickman-video-director/blob/main/README.pt-BR.md)** &nbsp;|&nbsp; **[Leia o tutorial no X →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+👉 **[Leia o tutorial no X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Entre na comunidade do Telegram →](https://telegram.me/stickmanskill)**
 
 ---
 
@@ -59,7 +67,7 @@ O diretor autônomo de IA que transforma roteiros de texto simples em vídeos an
 Eu desenvolvo ativamente novos Skills de automação de vídeo e os disponibilizo como código aberto. Clique em **`Follow`** no canto superior esquerdo para acompanhar:
 
 - [x] **Stickman Video: modo diretor** *(Disponível · 6 estilos visuais prontos)*
-- [ ] **Stickman Video: modo AutoPilot** *(Próximo lançamento · 6+ novos estilos)*
+- [x] **Stickman Video: modo AutoPilot** *(Disponível · 8 estilos visuais prontos para usar)*
 - [ ] **Narrador em pixel art retrô** *(Em desenvolvimento · estética nostálgica de 16-bit)*
 - [ ] **Publicador de Shorts sem aparecer em um clique** *(Experimental · exportação automática para YouTube e TikTok)*
 

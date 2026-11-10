@@ -4,24 +4,32 @@
 
 # Halo, saya Crazy Mei 🩵
 
-<p><b>Membangun Skills Video AI Open Source untuk Kreator Tanpa Wajah</b></p>
+<p><b>Membangun Alat dan Alur Produksi Video AI Open Source untuk Kreator Tanpa Tampil di Kamera</b></p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CrazyKaomei)
 [![X/Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CrazyKaomei)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CrazyKaomei)
 
-<p align="center">
-  <b>Ubah skrip teks apa pun menjadi video animasi viral dengan beragam gaya — 100% Gratis & Open Source.</b><br>
-  Tanpa kamera, tanpa langganan US$50/bulan, dan siap dalam hitungan menit, bukan hari.
-</p>
-
 </div>
+
+Terlalu banyak orang di dunia AI sibuk membangun ekosistem tertutup, mengunci prompt di balik paywall, dan menjual kursus tentang "rahasia" yang seharusnya bisa diketahui semua orang.
+
+Saya memilih jalan yang berbeda:
+
+**Setiap alur kerja yang membebaskan kreativitas manusia seharusnya menjadi milik semua orang.**\
+Tanpa paywall. Tanpa membatasi akses. 100% open source.
+
+Saya membuat sutradara video AI otonom dan alat kreatif agar siapa pun, terlepas dari anggaran atau kemampuan menggambar, bisa mengubah ide paling liarnya menjadi animasi viral.
+
+Terima kasih untuk semua yang memberi star, mencoba, dan ikut mengembangkan alat-alat ini bersama saya dari berbagai penjuru dunia. Ini baru permulaan!
+
+🩵 *So, just vibing with the CYCLE*
 
 ---
 
-### 🎬 Proyek Unggulan: Stickman Video Director
+### 🎬 Proyek Unggulan: [Stickman Video Director](https://github.com/kaomei/stickman-video-director/blob/main/README.id.md)
 
-**⭐ 5.000+ Star di GitHub**
+**⭐ 6.000+ Star di GitHub**
 
 Sutradara AI otonom yang mengubah skrip teks biasa menjadi video animasi stickman viral dengan beragam gaya — dirancang khusus untuk channel YouTube tanpa wajah.
 
@@ -29,7 +37,7 @@ Sutradara AI otonom yang mengubah skrip teks biasa menjadi video animasi stickma
 - **Mesin Visual Multigaya**: Beralih dengan mulus di antara beragam gaya (gambar tangan minimalis, gua prasejarah, meme komik).
 - **Dibuat untuk Otomatisasi YouTube**: Cara tercepat dan 100% gratis untuk menjalankan channel cerita tanpa menampilkan wajah atau membayar biaya SaaS yang tinggi.
 
-👉 **[Jelajahi Stickman Video Director di GitHub →](https://github.com/kaomei/stickman-video-director/blob/main/README.id.md)** &nbsp;|&nbsp; **[Baca tutorial di X →](https://x.com/CrazyKaomei/status/2102311241046008268)**
+👉 **[Baca tutorial di X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Bergabung dengan komunitas Telegram →](https://telegram.me/stickmanskill)**
 
 ---
 
@@ -59,7 +67,7 @@ Sutradara AI otonom yang mengubah skrip teks biasa menjadi video animasi stickma
 Saya aktif merancang dan membuka sumber Skills otomatisasi video baru. Klik **`Follow`** di kiri atas untuk mengikuti pembaruan:
 
 - [x] **Stickman Video: Mode Sutradara** *(Tersedia · 6 gaya visual siap digunakan)*
-- [ ] **Stickman Video: Mode AutoPilot** *(Rilis berikutnya · 6+ gaya baru)*
+- [x] **Stickman Video: Mode AutoPilot** *(Sudah tersedia · 8 gaya visual siap digunakan)*
 - [ ] **Pencerita Pixel Art Retro** *(Dalam pengembangan · estetika nostalgia 16-bit)*
 - [ ] **Penerbit Shorts Tanpa Wajah Sekali Klik** *(Eksperimental · ekspor otomatis ke YouTube dan TikTok)*
 
