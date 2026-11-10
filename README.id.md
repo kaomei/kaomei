@@ -34,7 +34,7 @@ Terima kasih untuk semua yang memberi star, mencoba, dan ikut mengembangkan alat
 Sutradara AI otonom yang mengubah skrip teks biasa menjadi video animasi stickman viral dengan beragam gaya — dirancang khusus untuk channel YouTube tanpa wajah.
 
 - **Bercerita dari Skrip ke Video**: Secara otomatis mengubah teks biasa menjadi storyboard, koreografi stickman, ekspresi karakter, dan timing komedi.
-- **Mesin Visual Multigaya**: Beralih dengan mulus di antara beragam gaya (gambar tangan minimalis, gua prasejarah, meme komik).
+- **Mesin Visual Multigaya**: Beralih dengan mulus di antara beragam gaya (seni garis minimalis, gua prasejarah, meme komik).
 - **Dibuat untuk Otomatisasi YouTube**: Cara tercepat dan 100% gratis untuk menjalankan channel cerita tanpa menampilkan wajah atau membayar biaya SaaS yang tinggi.
 
 👉 **[Baca tutorial di X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Bergabung dengan komunitas Telegram →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ Sutradara AI otonom yang mengubah skrip teks biasa menjadi video animasi stickma
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">Gambar Tangan Minimalis</th>
+<th width="50%" align="center">Seni Garis Minimalis</th>
 <th width="50%" align="center">Manusia Gua Prasejarah</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.id.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Gambar Tangan Minimalis"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.id.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Seni Garis Minimalis"></a><br>
 <em>Bersih, tajam, dengan nuansa Casually Explained.</em>
 </td>
 <td width="50%" align="center">

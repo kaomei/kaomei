@@ -34,7 +34,7 @@ Obrigada a todo mundo que, de tantos lugares do mundo, deixa uma estrela, testa 
 O diretor autônomo de IA que transforma roteiros de texto simples em vídeos animados de bonecos-palito virais e com vários estilos — projetado especialmente para canais do YouTube sem aparecer.
 
 - **Narrativa do roteiro ao vídeo**: Transforma automaticamente texto simples em storyboards, coreografia de bonecos-palito, expressões dos personagens e timing de comédia.
-- **Motor visual com vários estilos**: Alterne facilmente entre estilos (desenho minimalista à mão, caverna pré-histórica, memes em quadrinhos).
+- **Motor visual com vários estilos**: Alterne facilmente entre estilos (traço minimalista, caverna pré-histórica, memes em quadrinhos).
 - **Feito para automação no YouTube**: A forma mais rápida e 100% gratuita de manter um canal de histórias sem mostrar o rosto nem pagar altas taxas de SaaS.
 
 👉 **[Leia o tutorial no X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Entre na comunidade do Telegram →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ O diretor autônomo de IA que transforma roteiros de texto simples em vídeos an
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">Desenho minimalista à mão</th>
+<th width="50%" align="center">Traço minimalista</th>
 <th width="50%" align="center">Homem das cavernas pré-histórico</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.pt-BR.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Desenho minimalista à mão"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.pt-BR.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Traço minimalista"></a><br>
 <em>Limpo, nítido, na vibe de Casually Explained.</em>
 </td>
 <td width="50%" align="center">

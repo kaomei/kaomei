@@ -34,7 +34,7 @@ AI の世界では、閉じたエコシステムを築き、プロンプトを�
 テキスト台本を、バズる多彩な画風の棒人間アニメーション動画に変える自律型 AI ディレクター。顔出しなしの YouTube チャンネルのために設計されています。
 
 - **台本から動画へのストーリーテリング**: テキストを絵コンテ、棒人間の動作設計、キャラクターの表情、笑いの間へと自動変換します。
-- **多彩な画風のビジュアルエンジン**: ミニマル手描き、先史時代の洞窟、コミックミームなどの画風をシームレスに切り替えられます。
+- **多彩な画風のビジュアルエンジン**: ミニマル線画、先史時代の洞窟、コミックミームなどの画風をシームレスに切り替えられます。
 - **YouTube 自動化のために設計**: 顔出しや高額な SaaS 料金なしでストーリーチャンネルを運営する、最速かつ 100% 無料の方法です。
 
 👉 **[X で制作チュートリアルを読む →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Telegramコミュニティに参加 →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ AI の世界では、閉じたエコシステムを築き、プロンプトを�
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">ミニマル手描き</th>
+<th width="50%" align="center">ミニマル線画</th>
 <th width="50%" align="center">先史時代の洞窟人</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="ミニマル手描き"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.ja.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="ミニマル線画"></a><br>
 <em>すっきりシャープな、Casually Explained の雰囲気。</em>
 </td>
 <td width="50%" align="center">

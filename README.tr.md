@@ -34,7 +34,7 @@ Dünyanın dört bir yanından yıldız veren, test eden ve bu araçları beniml
 Düz metin senaryolarını viral, çok stilli çöp adam animasyon videolarına dönüştüren otonom AI yönetmeni — özellikle yüz göstermeyen YouTube kanalları için tasarlandı.
 
 - **Senaryodan Videoya Hikâye Anlatımı**: Düz metni otomatik olarak storyboard’lara, çöp adam koreografisine, karakter ifadelerine ve komedi zamanlamasına dönüştürür.
-- **Çok Stilli Görsel Motor**: Minimal el çizimi, tarih öncesi mağara ve çizgi roman mizahı gibi farklı stiller arasında sorunsuz geçiş yapın.
+- **Çok Stilli Görsel Motor**: Minimal çizgi sanatı, tarih öncesi mağara ve çizgi roman mizahı gibi farklı stiller arasında sorunsuz geçiş yapın.
 - **YouTube Otomasyonu İçin Tasarlandı**: Yüzünüzü göstermeden veya yüksek SaaS ücretleri ödemeden bir hikâye kanalı yönetmenin en hızlı ve %100 ücretsiz yolu.
 
 👉 **[X’te eğitimi okuyun →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Telegram topluluğuna katılın →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ Düz metin senaryolarını viral, çok stilli çöp adam animasyon videolarına 
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">Minimal El Çizimi</th>
+<th width="50%" align="center">Minimal Çizgi Sanatı</th>
 <th width="50%" align="center">Tarih Öncesi Mağara İnsanı</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.tr.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Minimal El Çizimi"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director/blob/main/README.tr.md#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Minimal Çizgi Sanatı"></a><br>
 <em>Temiz, net, Casually Explained havasında.</em>
 </td>
 <td width="50%" align="center">

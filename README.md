@@ -34,7 +34,7 @@ Thanks to everyone starring, testing, and co-building these tools with me across
 The autonomous AI director that turns plain text scripts into viral, multi-style animated stickman videos—specifically engineered for Faceless YouTube Channels.
 
 - **Script-to-Video Storytelling**: Automatically turns plain text into storyboards, stickman choreography, character expressions, and comedic timing.
-- **Multi-Style Visual Engine**: Switch seamlessly across diverse art styles (Minimal Hand-Drawn, Prehistoric Cave, Comic Meme).
+- **Multi-Style Visual Engine**: Switch seamlessly across diverse art styles (Minimal Line Art, Prehistoric Cave, Comic Meme).
 - **Built for YouTube Automation**: The fastest, 100% free way to run a storytelling channel without showing your face or paying high SaaS fees.
 
 👉 **[Read the tutorial on X →](https://x.com/CrazyKaomei/status/2102311241046008268)** &nbsp;|&nbsp; **[Join the Telegram community →](https://telegram.me/stickmanskill)**
@@ -45,12 +45,12 @@ The autonomous AI director that turns plain text scripts into viral, multi-style
 
 <table width="100%">
 <tr>
-<th width="50%" align="center">Minimal Hand-Drawn</th>
+<th width="50%" align="center">Minimal Line Art</th>
 <th width="50%" align="center">Prehistoric Caveman</th>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/kaomei/stickman-video-director#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Minimal Hand-Drawn"></a><br>
+<a href="https://github.com/kaomei/stickman-video-director#b1"><img src="https://cdn.jsdelivr.net/gh/kaomei/stickman-video-director@fa0a68d1ccf9fd057230abab2af832f768debe86/assets/readme/previews/b1-minimal-handdrawn.gif" width="400" alt="Minimal Line Art"></a><br>
 <em>Clean, sharp, Casually Explained vibe.</em>
 </td>
 <td width="50%" align="center">
